@@ -1,0 +1,1195 @@
+id,created_at,slug,name,remote_category
+4,2011-10-03 21:59:59.000000,aulas/informatica,Professores de Informática,false
+34,2011-10-03 22:16:01.000000,moda-e-beleza/corte-e-costura/criacao,Costureiras,false
+57,2012-05-10 23:13:10.000000,consultoria/consultor-pessoal,Consultores Pessoais,true
+63,2012-05-10 23:16:29.000000,consultoria/producao-padronizacao-e-revisao-de-conteudo,Redatores e Revisores,true
+76,2012-05-10 23:16:30.000000,eventos/buffet-completo,Buffets,false
+87,2012-05-10 23:16:30.000000,saude/cuidador-de-pessoas,Cuidadores de Pessoas,false
+92,2012-05-10 23:16:30.000000,familia/diarista,Diaristas,false
+97,2012-05-10 23:16:30.000000,reformas-e-reparos/eletricista,Eletricistas,false
+101,2012-05-10 23:16:30.000000,reformas-e-reparos/pedreiro,Pedreiros,false
+109,2012-05-10 23:31:31.000000,consultoria/traducao,Tradutores,true
+117,2012-05-10 23:31:31.000000,eventos/outros,Profissionais de Eventos,false
+123,2012-05-10 23:31:31.000000,reformas-e-reparos/outros,Profissionais de Reformas e Reparos,false
+128,2012-05-17 04:37:56.000000,reformas-e-reparos/mudancas-e-carretos,Profissionais de Carretos e mudanças,false
+132,2012-05-17 04:38:44.000000,consultoria/consultoria-especializada,Consultores,true
+137,2012-05-24 15:27:03.000000,eventos/decoracao,Decoradoras de Festas,false
+142,2012-05-31 18:32:10.000000,reformas-e-reparos/tapeceiro,Tapeceiros,false
+146,2012-08-16 19:46:22.000000,reformas-e-reparos/serralheria-e-solda,Serralheiros e Soldadores,false
+152,2012-10-29 02:51:56.000000,reformas-e-reparos/arquiteto,Arquitetos,false
+163,,moda-e-beleza,Profissionais em Moda e Beleza,false
+172,,familia,Profissionais em Serviços Domésticos,false
+176,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/electrolux,Assistências Técnicas para Lava Roupa Electrolux,false
+180,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/lg,Assistências Técnicas para Lava Roupa LG,false
+184,2013-07-11 02:59:05.000000,assistencia-tecnica/geladeira-e-freezer,Assistências Técnicas para Geladeira e Freezer,false
+188,2013-07-11 02:59:05.000000,assistencia-tecnica/geladeira-e-freezer/bosch/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Bosch,false
+192,2013-07-11 02:59:06.000000,assistencia-tecnica/geladeira-e-freezer/lg/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer LG,false
+198,2013-07-11 02:59:07.000000,assistencia-tecnica/celular/motorola/dentro-da-garantia,Assistências Técnicas para Celular Motorola,false
+202,2013-07-11 02:59:07.000000,assistencia-tecnica/televisao/philips,Assistências Técnicas para TV Philips,false
+206,2013-07-11 02:59:08.000000,assistencia-tecnica/computador-desktop/aoc/fora-da-garantia,Assistências Técnicas para Computador AOC,false
+212,2013-07-11 02:59:09.000000,assistencia-tecnica/outros/electrolux,Assistências Técnicas para produtos Electrolux,false
+216,2013-07-11 02:59:10.000000,assistencia-tecnica/outros/lg,Assistências Técnicas para produtos LG,false
+220,2013-07-11 02:59:11.000000,assistencia-tecnica/geladeira-e-freezer/brastemp,Assistências Técnicas para Geladeira e Freezer Brastemp,false
+224,2013-07-11 02:59:12.000000,assistencia-tecnica/fogao-e-cooktop/brastemp/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop Brastemp,false
+228,2013-07-11 02:59:13.000000,assistencia-tecnica/lava-roupa/consul/fora-da-garantia,Assistências Técnicas para Lava Roupa Consul,false
+232,2013-07-11 02:59:13.000000,assistencia-tecnica/computador-desktop/cce/dentro-da-garantia,Assistências Técnicas para Computador CCE,false
+238,2013-07-11 02:59:14.000000,assistencia-tecnica/notebooks-e-laptops/cce,Assistências Técnicas para Laptops e Notebooks CCE,false
+242,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/philco,Assistências Técnicas para TV Philco,false
+246,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/outras,Assistências Técnicas para TV,false
+250,2013-07-11 02:59:16.000000,assistencia-tecnica/lava-roupa/consul/dentro-da-garantia,Assistências Técnicas para Lava Roupa Consul,false
+254,2013-07-11 02:59:17.000000,assistencia-tecnica/lava-roupa/lg/dentro-da-garantia,Assistências Técnicas para Lava Roupa LG,false
+258,2013-07-11 02:59:18.000000,assistencia-tecnica/geladeira-e-freezer/consul/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Consul,false
+262,2013-07-11 02:59:19.000000,assistencia-tecnica/geladeira-e-freezer/continental/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Continental,false
+267,2013-07-11 02:59:21.000000,assistencia-tecnica/lava-roupa/continental/fora-da-garantia,Assistências Técnicas para Lava Roupa Continental,false
+271,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/brastemp/fora-da-garantia,Assistências Técnicas para Micro Ondas Brastemp,false
+275,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/electrolux/fora-da-garantia,Assistências Técnicas para Micro Ondas Electrolux,false
+279,2013-07-11 02:59:25.000000,assistencia-tecnica/fogao-e-cooktop/ge/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop GE,false
+283,2013-07-11 02:59:26.000000,assistencia-tecnica/notebooks-e-laptops/itautec/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Itautec,false
+287,2013-07-11 02:59:27.000000,assistencia-tecnica/televisao/lg/fora-da-garantia,Assistências Técnicas para Televisor Lg,false
+291,2013-07-11 02:59:28.000000,assistencia-tecnica/televisao/h-buster/dentro-da-garantia,Assistências Técnicas para Televisor H Buster,false
+295,2013-07-11 02:59:29.000000,assistencia-tecnica/celular/samsung,Assistências Técnicas para Celular Samsung,false
+299,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/samsung,Assistências Técnicas para Computador Samsung,false
+303,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/toshiba,Assistências Técnicas para Computador Toshiba,false
+309,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/samsung/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Samsung,false
+313,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/toshiba/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Toshiba,false
+318,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/lg,Assistências Técnicas para Tablet LG,false
+322,2013-07-11 02:59:34.000000,assistencia-tecnica/tablet/philco,Assistências Técnicas para Tablet Philco,false
+330,2013-07-11 02:59:36.000000,assistencia-tecnica/aparelho-de-som/philco,Assistências Técnicas para Aparelho de Som Philco,false
+334,2013-07-11 02:59:36.000000,assistencia-tecnica/computador-desktop/toshiba/dentro-da-garantia,Assistências Técnicas para Computador Toshiba,false
+338,2013-07-11 02:59:37.000000,assistencia-tecnica/dvd-blu-ray/outras/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray,false
+342,2013-07-11 02:59:39.000000,assistencia-tecnica/micro-ondas/ge,Assistências Técnicas para Microondas GE,false
+346,2013-07-11 02:59:39.000000,assistencia-tecnica/tablet/dl,Assistências Técnicas para Tablet DL,false
+350,2013-07-11 02:59:42.000000,assistencia-tecnica/geladeira-e-freezer/consul/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Consul,false
+354,2013-07-11 02:59:44.000000,assistencia-tecnica/celular/sony/fora-da-garantia,Assistências Técnicas para Celular Sony Ericsson,false
+358,2013-07-11 02:59:46.000000,assistencia-tecnica/televisao/oac,Assistências Técnicas para TV OAC,false
+362,2013-07-11 02:59:47.000000,assistencia-tecnica/computador-desktop/oac/dentro-da-garantia,Assistências Técnicas para Computador OAC,false
+366,2013-07-11 02:59:48.000000,assistencia-tecnica/notebooks-e-laptops/apple/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Apple,false
+370,2013-07-11 02:59:49.000000,assistencia-tecnica/celular/blackberry/fora-da-garantia,Assistências Técnicas para Celular Blackberry,false
+374,2013-07-11 02:59:53.000000,assistencia-tecnica/fogao-e-cooktop/bosch,Assistências Técnicas para Fogão e Cooktop Bosch,false
+378,2013-07-11 02:59:55.000000,assistencia-tecnica/micro-ondas/lg,Assistências Técnicas para Micro Ondas LG,false
+382,2013-07-11 02:59:56.000000,assistencia-tecnica/ar-condicionado/outras/fora-da-garantia,Assistências Técnicas para Ar Condicionado,false
+386,2013-07-11 02:59:58.000000,assistencia-tecnica/computador-desktop/hp/fora-da-garantia,Assistências Técnicas para Computador Hp,false
+390,2013-07-11 02:59:58.000000,assistencia-tecnica/impressora/outras/fora-da-garantia,Assistências Técnicas para Impressoras,false
+402,2013-07-11 03:00:03.000000,assistencia-tecnica/celular/nextel/fora-da-garantia,Assistências Técnicas para Celular Nextel,false
+406,2013-07-11 03:00:05.000000,assistencia-tecnica/dvd-blu-ray/lg/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray LG,false
+410,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/lg,Assistências Técnicas para Home Theater LG,false
+414,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/lenoxx,Assistências Técnicas para Home Theater Lenoxx,false
+418,2013-07-11 03:00:07.000000,assistencia-tecnica/micro-ondas/toshiba/dentro-da-garantia,Assistências Técnicas para Micro Ondas Toshiba,false
+422,2013-07-11 03:00:10.000000,assistencia-tecnica/video-game/sony-playstation/fora-da-garantia,Assistências Técnicas para Videogame Sony Playstation,false
+429,2013-07-11 03:00:12.000000,assistencia-tecnica/ar-condicionado/springer-carrier/fora-da-garantia,Assistências Técnicas para Ar Condicionado Springer Carrier,false
+433,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/komeco/fora-da-garantia,Assistências Técnicas para Ar Condicionado Komeco,false
+437,2013-07-11 03:00:14.000000,assistencia-tecnica/ar-condicionado/gree/fora-da-garantia,Assistências Técnicas para Ar Condicionado Gree,false
+441,2013-07-11 03:00:17.000000,assistencia-tecnica/aparelho-de-som/lg/dentro-da-garantia,Assistências Técnicas para Aparelho de Som LG,false
+445,2013-07-11 03:00:19.000000,assistencia-tecnica/aparelho-de-som/philips,Assistências Técnicas para Aparelho de Som Philips,false
+449,2013-07-11 03:00:20.000000,assistencia-tecnica/dvd-blu-ray/samsung/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Samsung,false
+453,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos/britania,Assistências Técnicas para Eletrodomésticos Britânia,false
+457,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos/outras,Assistências Técnicas para Eletrodomésticos,false
+461,2013-07-11 03:00:22.000000,assistencia-tecnica/telefone-nao-celular/outras/dentro-da-garantia,Assistências Técnicas para Telefone,false
+465,2013-07-11 03:00:24.000000,assistencia-tecnica/computador-desktop/positivo,Assistências Técnicas para Computador Positivo,false
+469,2013-07-11 03:00:25.000000,assistencia-tecnica/notebooks-e-laptops/positivo/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Positivo,false
+477,2013-07-11 03:00:27.000000,assistencia-tecnica/televisao/cce/fora-da-garantia,Assistências Técnicas para Televisor Cce,false
+481,2013-07-11 03:00:30.000000,assistencia-tecnica/dvd-blu-ray/philco,Assistências Técnicas para DVD / Blu Ray Philco,false
+485,2013-07-11 03:00:33.000000,assistencia-tecnica/televisao/sharp/fora-da-garantia,Assistências Técnicas para Televisor Sharp,false
+489,2013-07-11 03:00:35.000000,assistencia-tecnica/aparelho-de-som/philco/fora-da-garantia,Assistências Técnicas para Aparelho de Som Philco,false
+495,2013-07-11 03:00:38.000000,assistencia-tecnica/aparelho-de-som/philips/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Philips,false
+499,2013-07-11 03:00:42.000000,assistencia-tecnica/aparelho-de-som/gradiente/fora-da-garantia,Assistências Técnicas para Aparelho de Som Gradiente,false
+503,2013-07-11 03:00:43.000000,assistencia-tecnica/aparelho-de-som/toshiba/fora-da-garantia,Assistências Técnicas para Aparelho de Som Toshiba,false
+513,2013-07-11 03:00:45.000000,assistencia-tecnica/camera/canon,Assistências Técnicas para Câmera Canon,false
+517,2013-07-11 03:00:46.000000,assistencia-tecnica/computador-desktop/dell,Assistências Técnicas para Computador Dell,false
+521,2013-07-11 03:00:47.000000,assistencia-tecnica/geladeira-e-freezer/mabe,Assistências Técnicas para Geladeira e Freezer Mabe,false
+525,2013-07-11 03:00:49.000000,assistencia-tecnica/telefone-nao-celular/intelbras,Assistências Técnicas para Telefone Intelbras,false
+529,2013-07-11 03:00:50.000000,assistencia-tecnica/telefone-nao-celular/siemens,Assistências Técnicas para Telefone Siemens,false
+533,2013-07-11 03:00:53.000000,assistencia-tecnica/aparelho-de-som/pioneer,Assistências Técnicas para Aparelho de Som Pioneer,false
+537,2013-07-11 03:00:53.000000,assistencia-tecnica/dvd-blu-ray/pioneer/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Pioneer,false
+541,2013-07-11 03:00:55.000000,assistencia-tecnica/eletrodomesticos/brastemp/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Brastemp,false
+547,2013-07-11 03:00:56.000000,assistencia-tecnica/notebooks-e-laptops/sony,Assistências Técnicas para Laptops e Notebooks Sony,false
+551,2013-07-11 03:00:59.000000,assistencia-tecnica/eletrodomesticos/arno/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Arno,false
+555,2013-07-11 03:01:05.000000,assistencia-tecnica/dvd-blu-ray/britania/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Britânia,false
+559,2013-07-11 03:01:06.000000,assistencia-tecnica/camera/outras,Assistências Técnicas para Câmera,false
+567,2013-07-11 03:01:09.000000,assistencia-tecnica/video-game/nintendo/dentro-da-garantia,Assistências Técnicas para Videogame Nintendo,false
+571,2013-07-11 03:01:10.000000,assistencia-tecnica/lava-louca/electrolux,Assistências Técnicas para Lava Louça Electrolux,false
+575,2013-07-11 03:01:13.000000,assistencia-tecnica/aparelho-de-som/outras/fora-da-garantia,Assistências Técnicas para Aparelho de Som,false
+583,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/britania/dentro-da-garantia,Assistências Técnicas para Micro Ondas Britânia,false
+587,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/philco/dentro-da-garantia-df77f6bc-48a1-4a8d-b9c5-a19838266bab,Assistências Técnicas para Micro Ondas Philco,false
+591,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/panasonic/dentro-da-garantia,Assistências Técnicas para Home Theater Panasonic,false
+595,2013-07-11 03:01:17.000000,assistencia-tecnica/telefone-nao-celular/samsung/dentro-da-garantia,Assistências Técnicas para Telefone Samsung,false
+599,2013-07-11 03:01:19.000000,assistencia-tecnica/geladeira-e-freezer/outras/dentro-da-garantia,Assistências Técnicas para Geladeiras e Freezers,false
+605,2013-07-11 03:01:26.000000,assistencia-tecnica/camera/nikon,Assistências Técnicas para Câmera Nikon,false
+609,2013-07-11 03:01:26.000000,assistencia-tecnica/camera/samsung/dentro-da-garantia,Assistências Técnicas para Câmera Samsung,false
+613,2013-07-11 03:01:27.000000,assistencia-tecnica/notebooks-e-laptops/acer/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Acer,false
+617,2013-07-11 03:01:28.000000,assistencia-tecnica/computador-desktop/cce/fora-da-garantia,Assistências Técnicas para Computador CCE,false
+621,2013-07-11 03:01:30.000000,assistencia-tecnica/notebooks-e-laptops/positivo/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Positivo,false
+625,2013-07-11 03:01:31.000000,assistencia-tecnica/tablet/positivo/fora-da-garantia,Assistências Técnicas para Tablet Positivo,false
+631,2013-07-11 03:01:33.000000,assistencia-tecnica/lava-roupa/mueller/fora-da-garantia,Assistências Técnicas para Lava Roupa Mueller,false
+635,2013-07-11 03:01:36.000000,assistencia-tecnica/tablet/hp,Assistências Técnicas para Tablet HP,false
+641,2013-07-11 03:01:41.000000,assistencia-tecnica/computador-desktop/sony,Assistências Técnicas para Computador Sony,false
+648,2013-07-11 03:01:44.000000,assistencia-tecnica/celular/cce,Assistências Técnicas para Celular CCE,false
+652,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/sony/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Sony,false
+656,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/aoc/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray AOC,false
+660,2013-07-11 03:01:49.000000,assistencia-tecnica/dvd-blu-ray/sony/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Sony,false
+664,2013-07-11 03:01:51.000000,assistencia-tecnica/home-theater/sony/fora-da-garantia,Assistências Técnicas para Home Theater Sony,false
+668,2013-07-11 03:01:58.000000,assistencia-tecnica/fogao-e-cooktop/outras/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop,false
+676,2013-07-11 03:02:08.000000,assistencia-tecnica/lava-roupa/colormaq/dentro-da-garantia,Assistências Técnicas para Lava Roupa Colormaq,false
+680,2013-07-11 03:02:09.000000,assistencia-tecnica/dvd-blu-ray/panasonic/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Panasonic,false
+688,2013-07-11 03:02:11.000000,assistencia-tecnica/notebooks-e-laptops/sony/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Sony,false
+696,2013-07-11 03:02:12.000000,assistencia-tecnica/computador-desktop/itautec/fora-da-garantia,Assistências Técnicas para Computador Itautec,false
+702,2013-07-11 03:02:12.000000,assistencia-tecnica/televisao/oac/fora-da-garantia,Assistências Técnicas para Televisor Oac,false
+706,2013-07-11 03:02:13.000000,assistencia-tecnica/micro-ondas/philco/fora-da-garantia-9859252c-e466-444d-ad5a-a5430caabc78,Assistências Técnicas para Micro Ondas Philco,false
+710,2013-07-11 03:02:16.000000,assistencia-tecnica/aparelho-de-som/britania/fora-da-garantia,Assistências Técnicas para Aparelho de Som Britânia,false
+714,2013-07-11 03:02:17.000000,assistencia-tecnica/celular/cce/fora-da-garantia,Assistências Técnicas para Celular CCE,false
+718,2013-07-11 03:02:26.000000,assistencia-tecnica/eletrodomesticos/outras/fora-da-garantia,Assistências Técnicas para Eletrodomésticos,false
+722,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/pioneer/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Pioneer,false
+726,2013-07-11 03:02:30.000000,assistencia-tecnica/dvd-blu-ray/panasonic/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Panasonic,false
+731,2013-07-11 03:02:36.000000,assistencia-tecnica/camera/olympus/fora-da-garantia,Assistências Técnicas para Câmera Olympus,false
+735,2013-07-11 03:02:44.000000,assistencia-tecnica/home-theater/panasonic/fora-da-garantia,Assistências Técnicas para Home Theater Panasonic,false
+742,2013-07-11 03:06:20.000000,aulas/danca/zouk,Aulas de Zouk,false
+750,2013-07-11 03:06:24.000000,aulas/danca/axe,Aulas de Dança - Axé,false
+758,2013-07-11 03:06:25.000000,aulas/danca/ritmos,Aulas de Dança,false
+764,2013-07-11 03:06:39.000000,aulas/musica/outros,Professores de Música,false
+770,2013-07-11 03:06:55.000000,aulas/escolares-e-reforco/matematica/presencial,Professores particulares de Matemática,false
+774,2013-07-11 03:06:56.000000,aulas/escolares-e-reforco/fisica/presencial,Professores particulares de Física,false
+778,2013-07-11 03:06:57.000000,aulas/escolares-e-reforco/historia/presencial,Professores particulares de História,false
+782,2013-07-11 03:06:58.000000,aulas/escolares-e-reforco/portugues/presencial,Professores particulares de Português,false
+786,2013-07-11 03:07:09.000000,aulas/escolares-e-reforco/matematica/remoto,Professores particulares de Matemática,true
+790,2013-07-11 03:07:16.000000,aulas/escolares-e-reforco/sociologia-e-filosofia/presencial,Professores particulares de Sociologia e Filosofia,false
+794,2013-07-11 03:08:19.000000,aulas/escolares-e-reforco/ciencias/presencial,Professores particulares de Ciências,false
+801,2013-07-11 03:09:14.000000,aulas/esportes/tenis,Professores para Tênis,false
+809,2013-07-11 03:09:27.000000,aulas/idiomas/ingles,Professores de Inglês,false
+813,2013-07-11 03:09:28.000000,aulas/idiomas/portugues-para-estrangeiros/remoto,Professores de Português para Estrangeiros,true
+817,2013-07-11 03:09:31.000000,aulas/idiomas/frances,Professores de Francês,false
+821,2013-07-11 03:09:32.000000,aulas/idiomas/espanhol,Professores de Espanhol,false
+825,2013-07-11 03:09:35.000000,aulas/idiomas/alemao/presencial,Professores de Alemão,false
+829,2013-07-11 03:10:28.000000,aulas/idiomas/espanhol/remoto,Professores de Espanhol,true
+833,2013-07-11 03:11:19.000000,aulas/informatica/informatica-basica/presencial,Professores de Informática Básica,false
+837,2013-07-11 03:11:20.000000,aulas/informatica/programacao/presencial,Professores de Programação,false
+841,2013-07-11 03:11:35.000000,aulas/informatica/editor-de-imagens-e-videos/remoto,Professores de Edição de Imagens e Vídeos,true
+845,2013-07-11 03:12:26.000000,aulas/musica/canto,Professores de Canto,false
+849,2013-07-11 03:12:27.000000,aulas/musica/violino,Professores de Violino,false
+857,2013-07-11 03:12:28.000000,aulas/musica/sopro,Professores de Sopro,false
+863,2013-07-11 03:12:51.000000,aulas/musica/mixagem-dj,Professores de Mixagem DJ,false
+867,2013-07-11 03:14:13.000000,aulas/concursos/preparacao-fisica,Aulas de Preparação Física para Concursos,false
+871,2013-07-11 03:14:14.000000,aulas/concursos/portugues,Aulas de Português para Concursos,false
+875,2013-07-11 03:14:17.000000,aulas/concursos/matematica/remoto,Aulas de Matemática para Concursos,true
+879,2013-07-11 03:14:21.000000,aulas/concursos/direito/presencial,Aulas de Direito para Concursos,false
+883,2013-07-11 03:14:24.000000,aulas/concursos/administracao,Aulas de Administração para Concursos,false
+903,2013-08-01 03:10:56.000000,eventos/bartenders,Bartenders,false
+907,2013-08-01 03:10:59.000000,moda-e-beleza/depilacao,Depiladoras,false
+912,2013-08-01 03:11:48.000000,design-e-tecnologia/producao-grafica,Especialistas em Produção Gráfica,false
+916,2013-08-14 23:48:29.000000,eventos/animacao-de-festas/magico,Mágicos,false
+920,2013-08-14 23:48:34.000000,eventos/animacao-de-festas/pintura-artistica,Pintores Artística,false
+925,2013-08-14 23:51:45.000000,eventos/garcons-e-copeiras/outros,Garçons,false
+930,2013-08-16 03:41:14.000000,eventos/buffet-completo/corporativo,Buffets,false
+934,2013-08-16 03:47:18.000000,eventos/buffet-completo/casamento/somente-espaco,Buffets,false
+938,2013-08-16 03:52:23.000000,eventos/decoracao/casamento,Decoradoras de Casamento,false
+942,2013-08-16 03:54:35.000000,eventos/buffet-completo/formatura/espaco-e-comida,Buffets,false
+946,2013-08-16 03:57:03.000000,eventos/fotografia/book-fotografico,Fotógrafos para Book,false
+950,2013-08-16 20:42:30.000000,eventos/bandas-e-cantores/bandas-e-cantores,Bandas e DJs,false
+954,2013-08-20 15:06:27.000000,design-e-tecnologia/audio-e-video/gravacao-de-audio,Gravação de Áudio,false
+959,2013-10-25 19:57:51.000000,assistencia-tecnica/fogao-e-cooktop/mueller,Assistências Técnicas para Fogão e Cooktop Mueller,false
+963,2013-10-27 05:28:58.000000,assistencia-tecnica/impressora/zebra,Assistências Técnicas para Impressora Zebra,false
+968,2014-01-17 17:04:24.000000,reformas-e-reparos/jardinagem,Jardineiros,false
+972,2014-07-02 22:40:35.000000,aulas/idiomas/portugues/remoto,Professores de Português,true
+977,2014-07-21 18:36:13.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos,Pedreiro para pisos e revestimentos,false
+981,2014-09-10 21:40:24.000000,assistencia-tecnica/eletrodomesticos/philips-walita,Assistências Técnicas para Eletrodomésticos Philips Walita,false
+985,2014-10-16 23:30:19.000000,saude/nutricionista,Nutricionistas,false
+989,2014-10-16 23:42:40.000000,consultoria/advogado/civil,Advogados de Direito Civil,false
+993,2014-10-16 23:52:40.000000,consultoria/advogado/criminal,Advogados de Direito Criminal,false
+997,2014-10-31 17:56:38.000000,familia/motorista/carro,Motoristas,false
+1001,2014-11-18 21:36:37.000000,assistencia-tecnica/aparelho-de-som/aiwa/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Aiwa,false
+1005,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/electrolux/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Electrolux,false
+1009,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/lg/dentro-da-garantia,Assistências Técnicas para Ar Condicionado LG,false
+1013,2014-11-18 21:36:40.000000,assistencia-tecnica/celular/apple/dentro-da-garantia,Assistências Técnicas para Celular Apple,false
+1017,2014-11-18 21:36:41.000000,assistencia-tecnica/celular/nokia/dentro-da-garantia,Assistências Técnicas para Celular Nokia,false
+1021,2014-11-18 21:36:41.000000,assistencia-tecnica/computador-desktop/hp/dentro-da-garantia,Assistências Técnicas para Computador Hp,false
+1025,2014-11-18 21:36:41.000000,assistencia-tecnica/eletrodomesticos/brastemp/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Brastemp,false
+1029,2014-11-18 21:36:41.000000,assistencia-tecnica/fogao-e-cooktop/continental/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop Continental,false
+1033,2014-11-18 21:36:41.000000,assistencia-tecnica/geladeira-e-freezer/samsung/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Samsung,false
+1037,2014-11-18 21:36:42.000000,assistencia-tecnica/impressora/hp/dentro-da-garantia,Assistências Técnicas para Impressora HP,false
+1041,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-louca/ge/dentro-da-garantia,Assistências Técnicas para Lava Louça GE,false
+1045,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-roupa/wanke/dentro-da-garantia,Assistências Técnicas para Lava Roupa Wanke,false
+1049,2014-11-18 21:36:42.000000,assistencia-tecnica/outros/brastemp/dentro-da-garantia,Assistências Técnicas para produtos Brastemp,false
+1053,2014-11-18 21:36:42.000000,assistencia-tecnica/tablet/acer/dentro-da-garantia,Assistências Técnicas para Tablet Acer,false
+1057,2014-11-18 21:36:42.000000,assistencia-tecnica/tablet/hp/dentro-da-garantia,Assistências Técnicas para Tablet HP,false
+1061,2014-11-18 21:36:43.000000,assistencia-tecnica/telefone-nao-celular/intelbras/dentro-da-garantia,Assistências Técnicas para Telefone Intelbras,false
+1065,2014-11-18 21:36:43.000000,assistencia-tecnica/video-game/sony-playstation/dentro-da-garantia,Assistências Técnicas para Videogame Sony Playstation,false
+1069,2014-11-18 21:36:43.000000,aulas/concursos/idiomas/remoto,Aulas de Idiomas para Concursos,true
+1073,2014-11-18 21:36:43.000000,aulas/escolares-e-reforco/ciencias/remoto,Professores particulares de Ciências,true
+1077,2014-11-18 21:36:44.000000,aulas/musica/bateria/remoto,Professores de Bateria,true
+1081,2014-11-18 21:36:44.000000,aulas/musica/teclado/remoto,Professores de Teclado,true
+1085,2015-01-28 16:16:16.000000,reformas-e-reparos/tapeceiro/conserto-estrutura,Tapeceiros para Conserto,false
+1090,2015-01-29 18:54:11.000000,eventos/buffet-completo/casamento,Buffets,false
+1094,2015-01-29 19:37:05.000000,eventos/buffet-completo/aniversario/somente-espaco,Buffets,false
+1099,2015-04-01 20:10:42.000000,reformas-e-reparos/marceneiro/pisos-e-decks,Marceneiros,false
+1103,2015-04-01 20:32:54.000000,reformas-e-reparos/pintor/casa-ou-apartamento/externo,Pintores,false
+1107,2015-04-01 21:31:45.000000,reformas-e-reparos/terraplanagem,Especialistas em Terraplanagem,false
+1111,2015-04-01 22:23:22.000000,reformas-e-reparos/impermeabilizador,Impermeabilizadores,false
+1116,2015-04-01 22:41:31.000000,assistencia-tecnica/telefonia-pabx,Assistências Técnicas para Telefonia PABX,false
+1120,2015-04-02 21:12:18.000000,familia/motorista/carro/motorista-sem-veiculo-proprio,Motoristas,false
+1124,2015-04-14 17:11:08.000000,automoveis/martelinho-de-ouro,especialistas em martelinho de ouro,false
+1128,2015-04-14 18:14:34.000000,automoveis/alarme,especialistas em instalação de alarmes automotivos,false
+1132,2015-05-14 18:52:12.000000,familia/motorista/van/motorista-sem-veiculo-proprio,Motoristas de van,false
+1136,2015-05-28 18:15:19.000000,consultoria/traducao/espanhol,Tradutores da língua espanhola,true
+1140,2015-05-28 18:25:56.000000,consultoria/traducao/japones,Tradutores da língua japonesa,true
+1144,2015-05-28 18:53:12.000000,consultoria/traducao/russo,Tradutores da língua russa,true
+1148,2015-06-12 19:56:41.000000,eventos/bandas-e-cantores/rock,Bandas e DJs,false
+1152,2015-06-12 20:03:24.000000,eventos/bandas-e-cantores/funk,Bandas e DJs,false
+1156,2015-06-12 20:15:53.000000,eventos/bandas-e-cantores/outros,Bandas e DJs,false
+1160,2015-06-26 13:08:00.000000,assistencia-tecnica/fogao-e-cooktop/mueller/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop Mueller,false
+1164,2015-06-26 13:09:22.000000,assistencia-tecnica/impressora/epson/fora-da-garantia,Assistências Técnicas para Impressora Epson,false
+1168,2015-06-26 13:10:47.000000,assistencia-tecnica/impressora/zebra/fora-da-garantia,Assistências Técnicas para Impressora Zebra,false
+1172,2015-06-26 13:12:30.000000,assistencia-tecnica/celular/outros/fora-da-garantia,Assistências Técnicas para Celular,false
+1176,2015-06-26 18:56:20.000000,eventos/djs/variedade,DJ's para tocar variedade,false
+1180,2016-01-27 13:39:29.000000,eventos/decoracao/corporativo,Decoradoras de eventos Corporativo,false
+1208,2016-02-04 20:53:37.000000,eventos/djs/rock,DJ's para tocar rock,false
+1212,2016-02-12 21:34:43.000000,eventos/animacao-de-festas/animador-de-festas,Animador de festas,false
+1226,2016-02-16 22:00:17.000000,assistencia-tecnica/home-theater/outros/fora-da-garantia,Assistências Técnicas para Home Theater,false
+1230,2016-03-22 17:25:43.000000,reformas-e-reparos/encanador/instalacao,Encanadores,false
+1234,2016-03-31 17:31:29.000000,reformas-e-reparos/mudancas-e-carretos/outros,Profissionais de Carretos e mudanças,false
+1238,2016-05-05 14:01:58.000000,assistencia-tecnica/celular/lenovo/fora-da-garantia,Assistências Técnicas para Celular Nexus,false
+1245,2016-05-11 14:54:12.000000,assistencia-tecnica/eletrodomesticos/ge,Assistências Técnicas para Eletrodomésticos GE,false
+1250,2016-05-11 16:34:53.000000,assistencia-tecnica/eletrodomesticos/bosch,Assistências Técnicas para Eletrodomésticos Bosch,false
+1254,2016-05-11 16:51:31.000000,assistencia-tecnica/eletrodomesticos/ge/fora-da-garantia,Assistências Técnicas para Eletrodomésticos GE,false
+1258,2016-05-11 16:54:46.000000,assistencia-tecnica/eletrodomesticos/samsung/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Samsung,false
+1262,2016-05-11 16:58:30.000000,assistencia-tecnica/eletrodomesticos/continental/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Continental,false
+1266,2016-05-11 17:25:20.000000,assistencia-tecnica/eletrodomesticos/mondial/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Mondial,false
+1270,2016-06-08 14:35:25.000000,assistencia-tecnica/tablet/multilaser,Assistências Técnicas para Tablet Multilaser,false
+1274,2016-06-08 14:44:09.000000,assistencia-tecnica/tablet/motorola/dentro-da-garantia,Assistências Técnicas para Tablet Motorola,false
+1278,2016-06-16 14:50:02.000000,assistencia-tecnica/fogao-e-cooktop/dako/fora-da-garantia,Assistências Técnicas para Fogão E Cooktop Dako,false
+1282,2016-06-20 14:53:36.000000,moda-e-beleza/artesanato,Artesãos,false
+1287,2016-06-28 19:43:40.000000,assistencia-tecnica/micro-ondas/sharp/dentro-da-garantia,Assistências Técnicas para Micro Ondas Sharp,false
+1291,2016-07-08 18:03:18.000000,assistencia-tecnica/lava-louca/consul/fora-da-garantia,Assistências Técnicas para Lava Louça Consul,false
+1295,2016-08-29 17:52:10.000000,consultoria/contador/departamento-pessoal,Contador para departamento pessoal,true
+1299,2016-08-30 14:28:56.000000,reformas-e-reparos/chaveiro/chave-codificada,Chave codificada,false
+1303,2016-09-05 13:51:53.000000,aulas/musica/guitarra/presencial,Professores de Guitarra,false
+1307,2016-09-20 17:14:57.000000,reformas-e-reparos/eletricista/certificado-de-instalacao,Eletricistas,false
+1311,2016-09-20 17:33:44.000000,reformas-e-reparos/eletricista/outro,Eletricistas,false
+1316,2016-10-17 13:48:39.000000,consultoria/economia-e-financas/empresarial,Consultores Financeiros,true
+1320,2016-11-03 15:43:33.000000,aulas/idiomas/polones/presencial,Professores de Polonês,false
+1324,2016-11-03 16:02:45.000000,aulas/idiomas/coreano/remoto,Professores de Coreano,true
+1328,2016-11-03 16:17:25.000000,aulas/idiomas/chines,Professores de Chinês,false
+1332,2016-11-03 16:34:16.000000,aulas/idiomas/noruegues/presencial,Professores de Norueguês,false
+1336,2016-11-03 16:42:39.000000,aulas/idiomas/sueco/remoto,Professores de Sueco,true
+1340,2016-11-03 17:20:07.000000,aulas/idiomas/mandarim,Professores de Mandarim,false
+1344,2016-11-03 17:52:17.000000,aulas/idiomas/latim/presencial,Professores de Latim,false
+1348,2016-11-03 18:12:03.000000,aulas/idiomas/dinamarques/remoto,Professores de Dinamarquês,true
+1353,2016-11-17 18:23:30.000000,assistencia-tecnica/ar-condicionado/brastemp/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Brastemp,false
+1357,2016-11-17 18:28:16.000000,assistencia-tecnica/ar-condicionado/consul/fora-da-garantia,Assistências Técnicas para Ar Condicionado Consul,false
+1361,2016-11-29 19:40:05.000000,aulas/esportes/patins,Professores para Patins,false
+1365,2016-11-29 20:11:50.000000,aulas/bem-estar/pilates,Professores para Pilates,false
+1378,2016-12-01 21:12:06.000000,aulas/esportes/atletismo,Professores para atletismo,false
+1382,2016-12-02 20:10:06.000000,aulas/luta/defesa-pessoal,Professores para Defesa Pessoal,false
+1386,2016-12-02 20:14:58.000000,aulas/luta/capoeira,Professores para Capoeira,false
+1390,2017-01-06 19:52:42.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/carpete,Pedreiro para carpetes,false
+1394,2017-01-06 20:09:12.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/piso-de-borracha,Pedreiro para pisos de borracha,false
+1399,2017-02-23 17:50:54.000000,aulas/danca/sertanejo,Aulas de Dança - Sertanejo,false
+1404,2017-02-23 18:01:24.000000,aulas/danca/tango,Aulas de Dança - Tango,false
+1408,2017-02-23 18:14:34.000000,aulas/danca/hip-hop,Aulas de Dança - Hip Hop,false
+1412,2017-02-23 18:24:30.000000,aulas/danca/street-dance,Aulas de Dança - Street Dance,false
+1416,2017-02-23 18:46:57.000000,aulas/informatica/photoshop,Professores de Photoshop,true
+1420,2017-03-31 17:50:29.000000,eventos/confeitaria,Confeiteiros,false
+1435,2017-05-08 15:01:47.000000,reformas-e-reparos/tapeceiro/fabricacao,Tapeceiros para Fabricação,false
+1439,2017-08-29 14:49:57.000000,assistencia-tecnica/lava-roupa/samsung/dentro-da-garantia,Assistências Técnicas para Lava Roupa Brastemp,false
+1443,2017-09-01 18:08:19.000000,eventos/animacao-de-festas/contador-de-historias,Contadores de Histórias,false
+1447,2017-10-10 18:50:27.000000,automoveis/borracharia,especialistas em borracharia,false
+1467,2017-12-01 20:46:38.000000,reformas-e-reparos/antenista,instalação de antenas digitais,false
+1471,2018-01-24 19:16:30.000000,reformas-e-reparos/topografia,Topógrafos,false
+1475,2018-02-28 21:17:50.000000,consultoria/traducao-juramentada,Tradutores Juramentados,false
+1479,2018-02-28 22:13:05.000000,consultoria/traducao-juramentada/ingles,Tradutores Juramentados de inglês,false
+1427,2017-04-04 17:31:15.000000,aulas/artes-e-artesanatos/trico,Aulas de Tricô,false
+1431,2017-04-04 17:48:23.000000,aulas/artes-e-artesanatos/bordado/presencial,Aulas de Bordado,false
+1,2011-10-03 21:58:54.000000,aulas/idiomas,Professores de Idiomas,false
+5,2011-10-03 22:00:11.000000,aulas/esportes,Professores para Esportes,false
+35,2011-10-03 22:16:24.000000,moda-e-beleza/cabeleireiros,Cabeleireiros,false
+58,2012-05-10 23:13:10.000000,consultoria/economia-e-financas,Consultores Financeiros,true
+65,2012-05-10 23:16:29.000000,design-e-tecnologia/aplicativos-para-celular-e-redes-sociais,Desenvolvedores,true
+79,2012-05-10 23:16:30.000000,eventos/recepcionistas-e-cerimonialistas,Recepcionistas e Cerimonialistas,false
+88,2012-05-10 23:16:30.000000,familia/adestrador-de-caes,Adestradores de Cães,false
+94,2012-05-10 23:16:30.000000,reformas-e-reparos/decorador,Decoradores de ambiente,false
+98,2012-05-10 23:16:30.000000,reformas-e-reparos/gesso-e-drywall,Gesseiros,false
+102,2012-05-10 23:16:30.000000,reformas-e-reparos/pintor,Pintores,false
+111,2012-05-10 23:31:31.000000,design-e-tecnologia/desenvolvimento-de-sites-e-sistemas,Desenvolvedores de Sites,true
+118,2012-05-10 23:31:31.000000,design-e-tecnologia/convites,Designers de convites,false
+124,2012-05-12 02:26:25.000000,design-e-tecnologia/ilustracao,Ilustradores,true
+129,2012-05-17 04:38:07.000000,moda-e-beleza/outros/tatuagem-e-piercing,Tatuadores,false
+133,2012-05-17 04:41:28.000000,consultoria/digitacao-e-digitalizacao-de-documentos,Digitalizadores,true
+138,2012-05-24 15:27:32.000000,eventos/buffet-completo/corporativo/somente-espaco,Buffets,false
+143,2012-06-04 14:14:43.000000,moda-e-beleza/manicure-e-pedicure,Manicures e Pedicures,false
+147,2012-10-27 20:53:37.000000,aulas/bem-estar/personal-trainer,Professores para Esportes - Personal Trainer,false
+160,2013-04-02 17:37:09.000000,reformas-e-reparos/seguranca-eletronica,Técnicos de Segurança,false
+166,,consultoria,Profissionais em Consultoria,false
+173,,reformas-e-reparos,Profissionais em Reformas e Construção,false
+177,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/electrolux/fora-da-garantia,Assistências Técnicas para Lava Roupa Electrolux,false
+181,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/lg/fora-da-garantia,Assistências Técnicas para Lava Roupa LG,false
+185,2013-07-11 02:59:05.000000,assistencia-tecnica/geladeira-e-freezer/electrolux,Assistências Técnicas para Geladeira e Freezer Electrolux,false
+189,2013-07-11 02:59:06.000000,assistencia-tecnica/geladeira-e-freezer/ge,Assistências Técnicas para Geladeira e Freezer GE,false
+193,2013-07-11 02:59:06.000000,assistencia-tecnica/outros,Assistência Técnica,false
+199,2013-07-11 02:59:07.000000,assistencia-tecnica/televisao,Assistências Técnicas para Televisão,false
+203,2013-07-11 02:59:07.000000,assistencia-tecnica/televisao/philips/fora-da-garantia,Assistências Técnicas para Televisor Philips,false
+207,2013-07-11 02:59:09.000000,assistencia-tecnica/ar-condicionado,Assistências Técnicas para Ar Condicionado,false
+213,2013-07-11 02:59:09.000000,assistencia-tecnica/outros/electrolux/fora-da-garantia,Assistências Técnicas para produtos Electrolux,false
+217,2013-07-11 02:59:10.000000,assistencia-tecnica/outros/lg/fora-da-garantia,Assistências Técnicas para produtos LG,false
+221,2013-07-11 02:59:11.000000,assistencia-tecnica/geladeira-e-freezer/brastemp/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Brastemp,false
+225,2013-07-11 02:59:12.000000,assistencia-tecnica/fogao-e-cooktop/electrolux,Assistências Técnicas para Fogão e Cooktop Electrolux,false
+229,2013-07-11 02:59:13.000000,assistencia-tecnica/computador-desktop/philco,Assistências Técnicas para Computador Philco,false
+233,2013-07-11 02:59:14.000000,assistencia-tecnica/computador-desktop/outras,Assistências Técnicas para Computadores,false
+239,2013-07-11 02:59:14.000000,assistencia-tecnica/notebooks-e-laptops/cce/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks CCE,false
+243,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/philco/dentro-da-garantia,Assistências Técnicas para Televisor Philco,false
+247,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/outras/dentro-da-garantia,Assistências Técnicas para Televisor Outras,false
+251,2013-07-11 02:59:16.000000,assistencia-tecnica/lava-roupa/continental,Assistências Técnicas para Lava Roupa Continental,false
+255,2013-07-11 02:59:17.000000,assistencia-tecnica/geladeira-e-freezer/brastemp/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Brastemp,false
+259,2013-07-11 02:59:19.000000,assistencia-tecnica/geladeira-e-freezer/dako,Assistências Técnicas para Geladeira e Freezer Dako,false
+263,2013-07-11 02:59:19.000000,assistencia-tecnica/geladeira-e-freezer/ge/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer GE,false
+268,2013-07-11 02:59:22.000000,assistencia-tecnica/geladeira-e-freezer/continental/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Continental,false
+272,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/consul,Assistências Técnicas para Micro Ondas Consul,false
+276,2013-07-11 02:59:24.000000,assistencia-tecnica/fogao-e-cooktop/continental,Assistências Técnicas para Fogão e Cooktop Continental,false
+280,2013-07-11 02:59:26.000000,assistencia-tecnica/computador-desktop/itautec,Assistências Técnicas para Computador Itautec,false
+284,2013-07-11 02:59:26.000000,assistencia-tecnica/televisao/samsung,Assistências Técnicas para TV Samsung,false
+288,2013-07-11 02:59:27.000000,assistencia-tecnica/televisao/sony,Assistências Técnicas para TV Sony,false
+292,2013-07-11 02:59:28.000000,assistencia-tecnica/televisao/toshiba,Assistências Técnicas para TV Toshiba,false
+296,2013-07-11 02:59:29.000000,assistencia-tecnica/celular/samsung/fora-da-garantia,Assistências Técnicas para Celular Samsung,false
+300,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/samsung/fora-da-garantia,Assistências Técnicas para Computador Samsung,false
+304,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/toshiba/fora-da-garantia,Assistências Técnicas para Computador Toshiba,false
+310,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/lg,Assistências Técnicas para Laptops e Notebooks LG,false
+315,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet,Assistências Técnicas para Tablet,false
+319,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/lg/fora-da-garantia,Assistências Técnicas para Tablet LG,false
+323,2013-07-11 02:59:34.000000,assistencia-tecnica/tablet/philco/fora-da-garantia,Assistências Técnicas para Tablet Philco,false
+331,2013-07-11 02:59:36.000000,assistencia-tecnica/aparelho-de-som/philco/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Philco,false
+335,2013-07-11 02:59:37.000000,assistencia-tecnica/notebooks-e-laptops/toshiba/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Toshiba,false
+339,2013-07-11 02:59:38.000000,assistencia-tecnica/televisao/toshiba/dentro-da-garantia,Assistências Técnicas para Televisor Toshiba,false
+343,2013-07-11 02:59:39.000000,assistencia-tecnica/micro-ondas/ge/dentro-da-garantia,Assistências Técnicas para Micro Ondas Philco,false
+347,2013-07-11 02:59:39.000000,assistencia-tecnica/tablet/dl/fora-da-garantia,Assistências Técnicas para Tablet DL,false
+351,2013-07-11 02:59:43.000000,assistencia-tecnica/tablet/apple,Assistências Técnicas para Tablet Apple,false
+355,2013-07-11 02:59:45.000000,assistencia-tecnica/celular/motorola/fora-da-garantia,Assistências Técnicas para Celular Motorola,false
+359,2013-07-11 02:59:47.000000,assistencia-tecnica/televisao/oac/dentro-da-garantia,Assistências Técnicas para Televisor Oac,false
+363,2013-07-11 02:59:47.000000,assistencia-tecnica/computador-desktop/apple,Assistências Técnicas para Computador Apple,false
+367,2013-07-11 02:59:48.000000,assistencia-tecnica/celular/htc,Assistências Técnicas para Celular Htc,false
+371,2013-07-11 02:59:50.000000,assistencia-tecnica/geladeira-e-freezer/dako/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Dako,false
+375,2013-07-11 02:59:53.000000,assistencia-tecnica/fogao-e-cooktop/bosch/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop Bosch,false
+379,2013-07-11 02:59:55.000000,assistencia-tecnica/micro-ondas/lg/fora-da-garantia,Assistências Técnicas para Micro Ondas LG,false
+383,2013-07-11 02:59:57.000000,assistencia-tecnica/computador-desktop/lenovo,Assistências Técnicas para Computador Lenovo,false
+387,2013-07-11 02:59:58.000000,assistencia-tecnica/impressora/hp,Assistências Técnicas para Impressora HP,false
+391,2013-07-11 02:59:58.000000,assistencia-tecnica/impressora/canon,Assistências Técnicas para Impressora Canon,false
+403,2013-07-11 03:00:03.000000,assistencia-tecnica/celular/lg/dentro-da-garantia,Assistências Técnicas para Celular LG,false
+407,2013-07-11 03:00:05.000000,assistencia-tecnica/dvd-blu-ray/toshiba,Assistências Técnicas para DVD / Blu Ray Toshiba,false
+411,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/lg/dentro-da-garantia,Assistências Técnicas para Home Theater LG,false
+415,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/lenoxx/dentro-da-garantia,Assistências Técnicas para Home Theater Lenoxx,false
+419,2013-07-11 03:00:07.000000,assistencia-tecnica/notebooks-e-laptops/lg/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks LG,false
+423,2013-07-11 03:00:10.000000,assistencia-tecnica/video-game/microsoft-xbox,Assistências Técnicas para Xbox,false
+430,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/lg,Assistências Técnicas para Ar Condicionado LG,false
+434,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/fujitsu,Assistências Técnicas para Ar Condicionado Fujitsu,false
+438,2013-07-11 03:00:14.000000,assistencia-tecnica/ar-condicionado/york,Assistências Técnicas para Ar Condicionado York,false
+442,2013-07-11 03:00:18.000000,assistencia-tecnica/aparelho-de-som/lg/fora-da-garantia,Assistências Técnicas para Aparelho de Som LG,false
+446,2013-07-11 03:00:19.000000,assistencia-tecnica/aparelho-de-som/philips/fora-da-garantia,Assistências Técnicas para Aparelho de Som Philips,false
+450,2013-07-11 03:00:20.000000,assistencia-tecnica/dvd-blu-ray/philips,Assistências Técnicas para DVD / Blu Ray Philips,false
+454,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos/britania/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Britânia,false
+458,2013-07-11 03:00:22.000000,assistencia-tecnica/eletrodomesticos/outras/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos,false
+462,2013-07-11 03:00:23.000000,assistencia-tecnica/tablet/philco/dentro-da-garantia,Assistências Técnicas para Tablet Philco,false
+466,2013-07-11 03:00:24.000000,assistencia-tecnica/computador-desktop/positivo/dentro-da-garantia,Assistências Técnicas para Computador Positivo,false
+474,2013-07-11 03:00:26.000000,assistencia-tecnica/televisao/panasonic,Assistências Técnicas para TV Panasonic,false
+478,2013-07-11 03:00:28.000000,assistencia-tecnica/televisao/outras/fora-da-garantia,Assistências Técnicas para Televisor Outras,false
+482,2013-07-11 03:00:30.000000,assistencia-tecnica/dvd-blu-ray/philco/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Philco,false
+486,2013-07-11 03:00:34.000000,assistencia-tecnica/micro-ondas/ge/fora-da-garantia,Assistências Técnicas para Micro Ondas Philco,false
+490,2013-07-11 03:00:35.000000,assistencia-tecnica/aparelho-de-som/panasonic,Assistências Técnicas para Aparelho de Som Panasonic,false
+496,2013-07-11 03:00:40.000000,assistencia-tecnica/televisao/gradiente,Assistências Técnicas para TV Gradiente,false
+500,2013-07-11 03:00:42.000000,assistencia-tecnica/aparelho-de-som/sony,Assistências Técnicas para Aparelho de Som Sony,false
+504,2013-07-11 03:00:43.000000,assistencia-tecnica/camera,Assistências Técnicas para Câmera,false
+514,2013-07-11 03:00:45.000000,assistencia-tecnica/camera/canon/fora-da-garantia,Assistências Técnicas para Câmera Canon,false
+518,2013-07-11 03:00:46.000000,assistencia-tecnica/computador-desktop/dell/fora-da-garantia,Assistências Técnicas para Computador Dell,false
+522,2013-07-11 03:00:47.000000,assistencia-tecnica/geladeira-e-freezer/mabe/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Mabe,false
+526,2013-07-11 03:00:49.000000,assistencia-tecnica/telefone-nao-celular/intelbras/fora-da-garantia,Assistências Técnicas para Telefone Intelbras,false
+530,2013-07-11 03:00:50.000000,assistencia-tecnica/telefone-nao-celular/siemens/fora-da-garantia,Assistências Técnicas para Telefone Siemens,false
+534,2013-07-11 03:00:53.000000,assistencia-tecnica/aparelho-de-som/pioneer/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Pioneer,false
+538,2013-07-11 03:00:54.000000,assistencia-tecnica/eletrodomesticos/arno,Assistências Técnicas para Eletrodomésticos Arno,false
+542,2013-07-11 03:00:55.000000,assistencia-tecnica/eletrodomesticos/electrolux,Assistências Técnicas para Eletrodomésticos Electrolux,false
+548,2013-07-11 03:00:56.000000,assistencia-tecnica/notebooks-e-laptops/sony/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Sony,false
+552,2013-07-11 03:01:01.000000,assistencia-tecnica/lava-roupa/suggar,Assistências Técnicas para Lava Roupa Suggar,false
+556,2013-07-11 03:01:05.000000,assistencia-tecnica/tablet/aoc,Assistências Técnicas para Tablet AOC,false
+560,2013-07-11 03:01:06.000000,assistencia-tecnica/camera/outras/dentro-da-garantia,Assistências Técnicas para Câmera,false
+568,2013-07-11 03:01:09.000000,assistencia-tecnica/lava-louca,Assistências Técnicas para Lava Louça,false
+572,2013-07-11 03:01:10.000000,assistencia-tecnica/lava-louca/electrolux/fora-da-garantia,Assistências Técnicas para Lava Louça Electrolux,false
+576,2013-07-11 03:01:13.000000,assistencia-tecnica/computador-desktop/samsung/dentro-da-garantia,Assistências Técnicas para Computador Samsung,false
+584,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/midea,Assistências Técnicas para Microondas Midea,false
+588,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/samsung,Assistências Técnicas para Home Theater Samsung,false
+592,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/philco,Assistências Técnicas para Home Theater Philco,false
+596,2013-07-11 03:01:18.000000,assistencia-tecnica/televisao/samsung/dentro-da-garantia,Assistências Técnicas para Televisor Samsung,false
+600,2013-07-11 03:01:21.000000,assistencia-tecnica/televisao/aoc/dentro-da-garantia,Assistências Técnicas para Televisor Aoc,false
+606,2013-07-11 03:01:26.000000,assistencia-tecnica/camera/nikon/dentro-da-garantia,Assistências Técnicas para Câmera Nikon,false
+610,2013-07-11 03:01:27.000000,assistencia-tecnica/notebooks-e-laptops/hp,Assistências Técnicas para Laptops e Notebooks HP,false
+614,2013-07-11 03:01:28.000000,assistencia-tecnica/notebooks-e-laptops/asus,Assistências Técnicas para Laptops e Notebooks Asus,false
+618,2013-07-11 03:01:29.000000,assistencia-tecnica/computador-desktop/megaware,Assistências Técnicas para Computador Megaware,false
+622,2013-07-11 03:01:30.000000,assistencia-tecnica/impressora/samsung,Assistências Técnicas para Impressora Samsung,false
+626,2013-07-11 03:01:31.000000,assistencia-tecnica/tablet/acer,Assistências Técnicas para Tablet Acer,false
+632,2013-07-11 03:01:34.000000,assistencia-tecnica/lava-roupa/wanke,Assistências Técnicas para Lava Roupa Wanke,false
+636,2013-07-11 03:01:36.000000,assistencia-tecnica/tablet/hp/fora-da-garantia,Assistências Técnicas para Tablet HP,false
+642,2013-07-11 03:01:41.000000,assistencia-tecnica/computador-desktop/sony/dentro-da-garantia,Assistências Técnicas para Computador Sony,false
+649,2013-07-11 03:01:44.000000,assistencia-tecnica/celular/cce/dentro-da-garantia,Assistências Técnicas para Celular CCE,false
+653,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/cce,Assistências Técnicas para DVD / Blu Ray CCE,false
+657,2013-07-11 03:01:48.000000,assistencia-tecnica/tablet/samsung/dentro-da-garantia,Assistências Técnicas para Tablet Samsung,false
+661,2013-07-11 03:01:50.000000,assistencia-tecnica/home-theater/lg/fora-da-garantia,Assistências Técnicas para Home Theater LG,false
+665,2013-07-11 03:01:51.000000,assistencia-tecnica/home-theater/philips,Assistências Técnicas para Home Theater Philips,false
+669,2013-07-11 03:02:01.000000,assistencia-tecnica/aparelho-de-som/cce,Assistências Técnicas para Aparelho de Som CCE,false
+677,2013-07-11 03:02:09.000000,assistencia-tecnica/camera/panasonic,Assistências Técnicas para Câmera Panasonic,false
+684,2013-07-11 03:02:10.000000,assistencia-tecnica/notebooks-e-laptops/cce/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks CCE,false
+690,2013-07-11 03:02:11.000000,assistencia-tecnica/notebooks-e-laptops/hp/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks HP,false
+697,2013-07-11 03:02:12.000000,assistencia-tecnica/computador-desktop/oac/fora-da-garantia,Assistências Técnicas para Computador OAC,false
+703,2013-07-11 03:02:13.000000,assistencia-tecnica/micro-ondas/toshiba/fora-da-garantia,Assistências Técnicas para Micro Ondas Toshiba,false
+707,2013-07-11 03:02:14.000000,assistencia-tecnica/telefone-nao-celular/philco/fora-da-garantia,Assistências Técnicas para Telefone Philco,false
+711,2013-07-11 03:02:16.000000,assistencia-tecnica/aparelho-de-som/pioneer/fora-da-garantia,Assistências Técnicas para Aparelho de Som Pioneer,false
+715,2013-07-11 03:02:20.000000,assistencia-tecnica/lava-roupa/colormaq/fora-da-garantia,Assistências Técnicas para Lava Roupa Colormaq,false
+719,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/outras/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray,false
+723,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/britania/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Britânia,false
+727,2013-07-11 03:02:33.000000,assistencia-tecnica/tablet/outras/fora-da-garantia,Assistências Técnicas para Tablet,false
+732,2013-07-11 03:02:36.000000,assistencia-tecnica/camera/panasonic/fora-da-garantia,Assistências Técnicas para Câmera Panasonic,false
+736,2013-07-11 03:02:44.000000,assistencia-tecnica/home-theater/philco/fora-da-garantia,Assistências Técnicas para Home Theater Philco,false
+744,2013-07-11 03:06:21.000000,aulas/danca/outros,Aulas de Dança,false
+752,2013-07-11 03:06:24.000000,aulas/danca/ballet-e-jazz,Aulas de Ballet e Jazz,false
+760,2013-07-11 03:06:25.000000,aulas/artes-e-artesanatos/desenho-e-pintura,Aulas de Desenho e Pintura,false
+765,2013-07-11 03:06:39.000000,aulas/musica/outros/presencial,Professores de Música,false
+771,2013-07-11 03:06:55.000000,aulas/escolares-e-reforco/biologia,Professores particulares de Biologia,false
+775,2013-07-11 03:06:56.000000,aulas/escolares-e-reforco/geografia,Professores particulares de Geografia,false
+779,2013-07-11 03:06:57.000000,aulas/escolares-e-reforco/outros,Professores para Reforço,false
+783,2013-07-11 03:06:58.000000,aulas/escolares-e-reforco/quimica,Professores particulares de Química,false
+787,2013-07-11 03:07:09.000000,aulas/escolares-e-reforco/fisica/remoto,Professores particulares de Física,true
+791,2013-07-11 03:07:39.000000,aulas/escolares-e-reforco/portugues/remoto,Professores particulares de Português,true
+795,2013-07-11 03:09:13.000000,aulas/esportes/surfe,Professores para Surf,false
+803,2013-07-11 03:09:15.000000,aulas/luta,Professores para Lutas,false
+810,2013-07-11 03:09:28.000000,aulas/idiomas/ingles/presencial,Professores de Ingles,false
+814,2013-07-11 03:09:29.000000,aulas/idiomas/outros,Professores para Idiomas,false
+818,2013-07-11 03:09:31.000000,aulas/idiomas/frances/presencial,Professores de Francês,false
+822,2013-07-11 03:09:32.000000,aulas/idiomas/espanhol/presencial,Professores de Espanhol,false
+826,2013-07-11 03:09:43.000000,aulas/idiomas/portugues,Professores de Português,false
+830,2013-07-11 03:11:19.000000,aulas/informatica/editor-de-imagens-e-videos,Professores de Edição de Imagens e Vídeos,false
+834,2013-07-11 03:11:20.000000,aulas/informatica/outros,Professores de Informática,false
+838,2013-07-11 03:11:21.000000,aulas/informatica/pacote-office-completo,Professores de Pacote Office Completo,false
+842,2013-07-11 03:11:36.000000,aulas/informatica/programacao/remoto,Professores de Programação,true
+846,2013-07-11 03:12:26.000000,aulas/musica/canto/presencial,Professores de Canto,false
+850,2013-07-11 03:12:27.000000,aulas/musica/violino/presencial,Professores de Violino,false
+858,2013-07-11 03:12:28.000000,aulas/musica/sopro/presencial,Professores de Sopro,false
+864,2013-07-11 03:12:51.000000,aulas/musica/mixagem-dj/presencial,Professores de Mixagem DJ,false
+868,2013-07-11 03:14:13.000000,aulas/concursos/preparacao-fisica/presencial,Aulas de Preparação Física para Concursos,false
+872,2013-07-11 03:14:14.000000,aulas/concursos/portugues/presencial,Aulas de Português para Concursos,false
+876,2013-07-11 03:14:17.000000,aulas/concursos/idiomas,Aulas de Idiomas para Concursos,false
+880,2013-07-11 03:14:21.000000,aulas/concursos/outros/remoto,Aulas para Concursos,true
+884,2013-07-11 03:14:24.000000,aulas/concursos/administracao/presencial,Aulas de Administração para Concursos,false
+904,2013-08-01 03:10:56.000000,reformas-e-reparos/encanador,Encanadores,false
+908,2013-08-01 03:10:59.000000,moda-e-beleza/corte-e-costura/ajustes-e-reparos,Costureiras,false
+913,2013-08-01 03:11:48.000000,eventos/equipamentos-para-festas,Profissionais para Equipamentos para festas,false
+917,2013-08-14 23:48:32.000000,eventos/animacao-de-festas/artistas-circenses,Artistas Circenses,false
+922,2013-08-14 23:49:36.000000,eventos/assessor-de-eventos,Assessores de Eventos,false
+926,2013-08-14 23:52:05.000000,eventos/recepcionistas-e-cerimonialistas/recepcionista,Recepcionistas,false
+931,2013-08-16 03:42:14.000000,eventos/buffet-completo/outros,Buffets,false
+935,2013-08-16 03:47:36.000000,eventos/buffet-completo/debutante/somente-espaco,Buffets,false
+939,2013-08-16 03:53:02.000000,eventos/decoracao/outros,Decoradoras de Festas,false
+943,2013-08-16 03:55:09.000000,eventos/buffet-completo/formatura/somente-espaco,Buffets,false
+947,2013-08-16 03:57:23.000000,eventos/fotografia/outros,Fotógrafos,false
+951,2013-08-16 20:42:54.000000,eventos/djs,DJs,false
+955,2013-08-20 15:06:51.000000,design-e-tecnologia/audio-e-video/edicao-de-audio,Edição de Áudio,false
+960,2013-10-25 19:59:18.000000,assistencia-tecnica/eletrodomesticos/cadence,Assistências Técnicas para Eletrodomésticos Cadence,false
+964,2013-10-27 05:29:20.000000,assistencia-tecnica/impressora/xerox,Assistências Técnicas para Xerox,false
+969,2014-02-24 14:36:01.000000,reformas-e-reparos/eletricista/instalacao-de-ar-condicionado,Instaladores de ar condicionado,false
+973,2014-07-09 16:38:15.000000,reformas-e-reparos/automacao-residencial,Especialistas em automação residencial,false
+978,2014-07-21 18:39:07.000000,reformas-e-reparos/pedreiro/paredes-e-estruturas,Pedreiro para paredes e estruturas,false
+982,2014-10-16 22:03:23.000000,consultoria/advogado,Advogados,false
+986,2014-10-16 23:32:47.000000,saude/psicologo,Psicólogos,false
+990,2014-10-16 23:44:45.000000,consultoria/advogado/trabalhista,Advogados de Direito Trabalhista,false
+994,2014-10-16 23:54:31.000000,consultoria/advogado/consumidor,Advogados de Direito do Consumidor,false
+998,2014-10-31 18:18:24.000000,familia/motorista/van,Motoristas de van,false
+1002,2014-11-18 21:36:40.000000,assistencia-tecnica/aparelho-de-som/gradiente/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Gradiente,false
+1006,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/fujitsu/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Fujitsu,false
+1010,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/springer-carrier/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Springer Carrier,false
+1014,2014-11-18 21:36:40.000000,assistencia-tecnica/celular/blackberry/dentro-da-garantia,Assistências Técnicas para Celular Blackberry,false
+1018,2014-11-18 21:36:41.000000,assistencia-tecnica/celular/samsung/dentro-da-garantia,Assistências Técnicas para Celular Samsung,false
+1022,2014-11-18 21:36:41.000000,assistencia-tecnica/computador-desktop/megaware/dentro-da-garantia,Assistências Técnicas para Computador Megaware,false
+1026,2014-11-18 21:36:41.000000,assistencia-tecnica/eletrodomesticos/electrolux/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Electrolux,false
+1030,2014-11-18 21:36:41.000000,assistencia-tecnica/fogao-e-cooktop/electrolux/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop Electrolux,false
+1034,2014-11-18 21:36:41.000000,assistencia-tecnica/home-theater/philips/dentro-da-garantia,Assistências Técnicas para Home Theater Philips,false
+1038,2014-11-18 21:36:42.000000,assistencia-tecnica/impressora/outras/dentro-da-garantia,Assistências Técnicas para Impressoras,false
+1042,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-roupa/mueller/dentro-da-garantia,Assistências Técnicas para Lava Roupa Mueller,false
+1046,2014-11-18 21:36:42.000000,assistencia-tecnica/micro-ondas/brastemp/dentro-da-garantia,Assistências Técnicas para Micro Ondas Brastemp,false
+1050,2014-11-18 21:36:42.000000,assistencia-tecnica/outros/consul/dentro-da-garantia,Assistências Técnicas para produtos Consul,false
+1054,2014-11-18 21:36:42.000000,assistencia-tecnica/tablet/aoc/dentro-da-garantia,Assistências Técnicas para Tablet AOC,false
+1058,2014-11-18 21:36:43.000000,assistencia-tecnica/tablet/lg/dentro-da-garantia,Assistências Técnicas para Tablet LG,false
+1062,2014-11-18 21:36:43.000000,assistencia-tecnica/telefone-nao-celular/siemens/dentro-da-garantia,Assistências Técnicas para Telefone Siemens,false
+1070,2014-11-18 21:36:43.000000,aulas/concursos/informatica/remoto,Aulas de Informática para Concursos,true
+1074,2014-11-18 21:36:43.000000,aulas/escolares-e-reforco/geografia/remoto,Professores particulares de Geografia,true
+1078,2014-11-18 21:36:44.000000,aulas/musica/mixagem-dj/remoto,Professores de Mixagem DJ,true
+1082,2014-11-18 21:36:44.000000,aulas/musica/violino/remoto,Professores de Violino,true
+1086,2015-01-28 16:19:28.000000,reformas-e-reparos/tapeceiro/limpeza,Limpadores de sofá,false
+1091,2015-01-29 19:17:20.000000,eventos/buffet-completo/debutante,Buffets,false
+1095,2015-01-29 19:42:44.000000,eventos/buffet-completo/aniversario/somente-comida,Buffets,false
+1100,2015-04-01 20:25:09.000000,reformas-e-reparos/pintor/movel,Pintores de móveis,false
+1104,2015-04-01 20:41:09.000000,familia/passadeira,Passadeiras,false
+1108,2015-04-01 21:37:05.000000,reformas-e-reparos/piscina,Especialistas em Construção e Manutenção de Piscinas,false
+1112,2015-04-01 22:29:12.000000,reformas-e-reparos/limpeza-pos-obra,Limpadores Pós Obras,false
+1117,2015-04-01 22:43:45.000000,consultoria/seguranca-do-trabalho,Especialistas em Segurança do Trabalho,false
+1121,2015-04-06 18:00:37.000000,reformas-e-reparos/marceneiro/projeto-e-fabricacao,Marceneiros,false
+1125,2015-04-14 17:29:36.000000,automoveis/insulfilm,especialistas em aplicação de insulfilm,false
+1129,2015-04-14 18:22:28.000000,automoveis/auto-eletrico,especialistas em auto elétrico,false
+1133,2015-05-14 18:54:08.000000,familia/motorista/onibus/motorista-com-veiculo-proprio,Motoristas de ônibus,false
+1137,2015-05-28 18:18:11.000000,consultoria/traducao/frances,Tradutores da língua francesa,true
+1141,2015-05-28 18:28:23.000000,consultoria/traducao/chines-mandarim,Tradutores da língua chinesa,true
+1145,2015-05-28 18:55:15.000000,consultoria/traducao/outros,Tradutores,true
+1149,2015-06-12 19:58:01.000000,eventos/bandas-e-cantores/sertanejo,Bandas e DJs,false
+1153,2015-06-12 20:06:01.000000,eventos/bandas-e-cantores/pagode,Bandas e DJs,false
+1157,2015-06-26 13:06:57.000000,assistencia-tecnica/notebooks-e-laptops/lenovo/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Lenovo,false
+1161,2015-06-26 13:08:21.000000,assistencia-tecnica/eletrodomesticos/cadence/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Cadence,false
+1165,2015-06-26 13:09:55.000000,assistencia-tecnica/impressora/lexmark/dentro-da-garantia,Assistências Técnicas para Impressora Lexmark,false
+1169,2015-06-26 13:11:09.000000,assistencia-tecnica/impressora/xerox/dentro-da-garantia,Assistências Técnicas para Xerox,false
+1173,2015-06-26 13:12:58.000000,assistencia-tecnica/eletrodomesticos/philips-walita/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Philips Walita,false
+1177,2015-08-06 14:51:22.000000,assistencia-tecnica/cabeamento-e-redes/todas-as-marcas,Especialistas em cabeamento e redes,false
+1181,2016-01-27 13:41:09.000000,eventos/decoracao/formatura,Decoradoras de Formatura,false
+1209,2016-02-05 19:51:45.000000,eventos/buffet-completo/outros/somente-comida,Buffets,false
+1213,2016-02-12 21:36:18.000000,eventos/animacao-de-festas/esculturas-com-baloes,Esculturas com balões,false
+1227,2016-03-22 17:17:49.000000,reformas-e-reparos/encanador/caca-vazamento,Caçadores de vazamentos,false
+1231,2016-03-22 17:26:12.000000,reformas-e-reparos/encanador/outros,Encanadores,false
+1235,2016-03-31 18:25:07.000000,reformas-e-reparos/pedreiro/forro,Pedreiros para forro,false
+1239,2016-05-05 14:07:21.000000,assistencia-tecnica/celular/asus,Assistências Técnicas para Celular Asus,false
+1246,2016-05-11 14:54:25.000000,assistencia-tecnica/eletrodomesticos/consul,Assistências Técnicas para Eletrodomésticos Consul,false
+1251,2016-05-11 16:36:00.000000,assistencia-tecnica/eletrodomesticos/bosch/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Bosch,false
+1255,2016-05-11 16:51:46.000000,assistencia-tecnica/eletrodomesticos/samsung,Assistências Técnicas para Eletrodomésticos Samsung,false
+1259,2016-05-11 16:55:30.000000,assistencia-tecnica/eletrodomesticos/lg/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos LG,false
+1263,2016-05-11 16:59:30.000000,assistencia-tecnica/eletrodomesticos/continental/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Continental,false
+1267,2016-06-07 18:33:46.000000,assistencia-tecnica/impressora/brother,Assistências Técnicas para Impressora Brother,false
+1271,2016-06-08 14:37:07.000000,assistencia-tecnica/tablet/multilaser/dentro-da-garantia,Assistências Técnicas para Tablet Multilaser,false
+1275,2016-06-08 14:45:03.000000,assistencia-tecnica/tablet/motorola/fora-da-garantia,Assistências Técnicas para Tablet Motorola,false
+1279,2016-06-17 19:38:37.000000,assistencia-tecnica/camera/gopro,Assistências Técnicas para Câmera GoPro,false
+1283,2016-06-20 18:28:09.000000,moda-e-beleza/design-de-sobrancelhas,Designers de sobrancelhas,false
+1288,2016-06-28 19:44:58.000000,assistencia-tecnica/micro-ondas/sharp/fora-da-garantia,Assistências Técnicas para Micro Ondas Sharp,false
+1292,2016-07-18 16:34:09.000000,aulas/musica/guitarra,Professores de Guitarra,false
+1296,2016-08-29 17:54:03.000000,consultoria/contador/fiscal-pessoa-fisica,Contador fiscal para pessoa física,true
+1300,2016-08-30 14:32:57.000000,reformas-e-reparos/chaveiro/copia-de-chave,Cópias de chave,false
+1304,2016-09-05 13:53:06.000000,aulas/musica/guitarra/remoto,Aulas à distância,true
+1308,2016-09-20 17:23:58.000000,reformas-e-reparos/eletricista/conserto-ou-manutencao,Eletricistas,false
+1312,2016-10-17 13:35:26.000000,consultoria/economia-e-financas/planejamento,Consultores Financeiros,true
+1317,2016-10-17 13:49:23.000000,consultoria/economia-e-financas/impostos,Consultores Financeiros,true
+1321,2016-11-03 15:47:43.000000,aulas/idiomas/polones/remoto,Professores de Polonês,true
+1325,2016-11-03 16:06:10.000000,aulas/idiomas/russo,Professores de Russo,false
+1329,2016-11-03 16:19:09.000000,aulas/idiomas/chines/presencial,Professores de Chinês,false
+1333,2016-11-03 16:35:25.000000,aulas/idiomas/noruegues/remoto,Professores de Norueguês,true
+1337,2016-11-03 17:12:30.000000,aulas/idiomas/holandes,Professores de Holandês,false
+1341,2016-11-03 17:21:03.000000,aulas/idiomas/mandarim/presencial,Professores de Mandarim,false
+1345,2016-11-03 17:53:06.000000,aulas/idiomas/latim/remoto,Professores de Latim,true
+1349,2016-11-07 18:17:22.000000,eventos/djs/funk,Encontre Dj's para tocar funk,false
+1354,2016-11-17 18:24:43.000000,assistencia-tecnica/ar-condicionado/brastemp/fora-da-garantia,Assistências Técnicas para Ar Condicionado Brastemp,false
+1358,2016-11-29 18:37:46.000000,aulas/esportes/volei,Professores para vôlei,false
+1362,2016-11-29 19:42:08.000000,aulas/esportes/ciclismo,Professores para Ciclismo,false
+1366,2016-11-29 20:13:21.000000,aulas/bem-estar/rpg,Professores para Rpg,false
+1379,2016-12-02 20:02:44.000000,aulas/luta/judo,Professores para judô,false
+1383,2016-12-02 20:11:04.000000,aulas/luta/mma,Professores para MMA,false
+1387,2016-12-02 20:16:11.000000,aulas/luta/hapkido,Professores para Hapkido,false
+1391,2017-01-06 19:57:36.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/piso-vinilico,Pedreiro para pisos vinílicos,false
+1395,2017-01-06 20:11:42.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/piso-de-porcelanato,Pedreiro para pisos de porcelanato,false
+1400,2017-02-23 17:52:50.000000,aulas/danca/zumba,Aulas de Dança - Zumba,false
+1405,2017-02-23 18:04:30.000000,aulas/danca/bolero,Aulas de Dança - Bolero,false
+1409,2017-02-23 18:16:21.000000,aulas/danca/break,Aulas de Dança - Break,false
+1413,2017-02-23 18:37:07.000000,aulas/informatica/powerpoint,Professores de Powerpoint,true
+1417,2017-02-23 19:31:24.000000,aulas/idiomas/japones,Professores de Japonês,false
+1436,2017-05-08 16:48:43.000000,reformas-e-reparos/tapeceiro/impermeabilizacao,Tapeceiros para Conserto Impermeabilizar,false
+1440,2017-08-29 14:53:55.000000,assistencia-tecnica/lava-roupa/bosch,Assistências Técnicas para Lava Roupa Bosch,false
+1444,2017-10-10 18:10:39.000000,automoveis/higienizacao-e-polimento,especialistas em limpeza e polimento de automóveis,false
+1448,2017-10-18 19:27:46.000000,reformas-e-reparos/gas,Profissionais especializados em Gás,false
+1468,2017-12-18 20:17:00.000000,reformas-e-reparos/instalador-tv-digital,instalação de antenas digitais,false
+1472,2018-01-24 19:36:03.000000,consultoria/advogado/previdenciario,Advogados Previdenciários,false
+1476,2018-02-28 21:26:21.000000,consultoria/traducao-juramentada/alemao,Tradutores Juramentados da língua alemã,false
+1480,2018-02-28 22:15:49.000000,consultoria/traducao-juramentada/italiano,Tradutores Juramentados da língua italiana,false
+1066,2014-11-18 21:36:43.000000,aulas/artes-e-artesanatos/desenho-e-pintura/remoto,Aulas à distância,true
+1421,2017-04-04 17:07:07.000000,aulas/artes-e-artesanatos/croche,Aulas de Crochê,false
+1428,2017-04-04 17:34:29.000000,aulas/artes-e-artesanatos/trico/presencial,Aulas de Tricô,false
+1432,2017-04-04 17:51:47.000000,aulas/artes-e-artesanatos/bordado/remoto,Aulas à distância,true
+2,2011-10-03 21:59:12.000000,aulas/escolares-e-reforco,Professores para Reforço,false
+6,2011-10-03 22:00:23.000000,aulas/outros,Professores Particulares,false
+37,2011-10-03 22:16:59.000000,moda-e-beleza/outros,Profissionais de Moda e Beleza,false
+59,2012-05-10 23:13:10.000000,consultoria/pesquisas-em-geral,Especialistas em Pesquisa,true
+68,2012-05-10 23:16:29.000000,design-e-tecnologia/marketing-online,Especialistas em Marketing,true
+83,2012-05-10 23:16:30.000000,design-e-tecnologia/materiais-promocionais,Profissionais para Materiais promocionais,false
+89,2012-05-10 23:16:30.000000,familia/baba,Babás,false
+95,2012-05-10 23:16:30.000000,reformas-e-reparos/dedetizador,Dedetizadores,false
+99,2012-05-10 23:16:30.000000,reformas-e-reparos/marceneiro,Marceneiros,false
+103,2012-05-10 23:16:30.000000,reformas-e-reparos/chaveiro,Chaveiros,false
+112,2012-05-10 23:31:31.000000,design-e-tecnologia/web-design,Web Designers,true
+121,2012-05-10 23:31:31.000000,design-e-tecnologia/outros,Profissionais de Design e Tecnologia,true
+125,2012-05-12 02:35:59.000000,design-e-tecnologia/edicao-de-fotos,Tratadores de Fotos,true
+130,2012-05-17 04:38:17.000000,reformas-e-reparos/vidraceiro,Vidraceiros,false
+134,2012-05-17 04:41:43.000000,design-e-tecnologia/diagramador,Diagramadores,true
+139,2012-05-29 16:57:28.000000,familia/limpeza-de-piscina,Limpadores de Piscina,false
+144,2012-06-11 20:04:36.000000,moda-e-beleza/outros/flores-cestas-e-artesanatos,Artesãos,false
+148,2012-10-27 21:10:00.000000,aulas/danca,Profissionais de Dança,false
+161,2013-05-02 19:45:46.000000,aulas/concursos,Aulas para Concursos,false
+168,,design-e-tecnologia,Profissionais em Design e Tecnologia,true
+174,,assistencia-tecnica,Profissionais em Assistência Técnica,false
+178,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/ge,Assistências Técnicas para Lava Roupa GE,false
+182,2013-07-11 02:59:05.000000,assistencia-tecnica/lava-roupa/outras,Assistências Técnicas para Lava Roupas,false
+186,2013-07-11 02:59:05.000000,assistencia-tecnica/geladeira-e-freezer/electrolux/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Electrolux,false
+190,2013-07-11 02:59:06.000000,assistencia-tecnica/geladeira-e-freezer/ge/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer GE,false
+196,2013-07-11 02:59:07.000000,assistencia-tecnica/celular,Assistências Técnicas para Celular,false
+200,2013-07-11 02:59:07.000000,assistencia-tecnica/televisao/aoc,Assistências Técnicas para TV AOC,false
+204,2013-07-11 02:59:08.000000,assistencia-tecnica/computador-desktop,Assistências Técnicas para Computador,false
+210,2013-07-11 02:59:09.000000,assistencia-tecnica/outros/consul,Assistências Técnicas para produtos Consul,false
+214,2013-07-11 02:59:10.000000,assistencia-tecnica/outros/brastemp,Assistências Técnicas para produtos Brastemp,false
+218,2013-07-11 02:59:11.000000,assistencia-tecnica/lava-roupa/brastemp,Assistências Técnicas para Lava Roupa Brastemp,false
+222,2013-07-11 02:59:12.000000,assistencia-tecnica/fogao-e-cooktop,Assistências Técnicas para Fogão e Cooktop,false
+226,2013-07-11 02:59:12.000000,assistencia-tecnica/fogao-e-cooktop/electrolux/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop Electrolux,false
+230,2013-07-11 02:59:13.000000,assistencia-tecnica/computador-desktop/philco/dentro-da-garantia,Assistências Técnicas para Computador Philco,false
+234,2013-07-11 02:59:14.000000,assistencia-tecnica/computador-desktop/outras/dentro-da-garantia,Assistências Técnicas para Computadores,false
+240,2013-07-11 02:59:14.000000,assistencia-tecnica/notebooks-e-laptops/outras,Assistências Técnicas para Laptops e Notebooks,false
+244,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/cce,Assistências Técnicas para TV CCE,false
+248,2013-07-11 02:59:16.000000,assistencia-tecnica/lava-roupa/brastemp/dentro-da-garantia,Assistências Técnicas para Lava Roupa Brastemp,false
+252,2013-07-11 02:59:16.000000,assistencia-tecnica/lava-roupa/continental/dentro-da-garantia,Assistências Técnicas para Lava Roupa Continental,false
+256,2013-07-11 02:59:18.000000,assistencia-tecnica/geladeira-e-freezer/electrolux/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Electrolux,false
+260,2013-07-11 02:59:19.000000,assistencia-tecnica/geladeira-e-freezer/dako/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Dako,false
+264,2013-07-11 02:59:20.000000,assistencia-tecnica/geladeira-e-freezer/bosch/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Bosch,false
+269,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas,Assistências Técnicas para Micro Ondas,false
+273,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/consul/fora-da-garantia,Assistências Técnicas para Micro Ondas Consul,false
+277,2013-07-11 02:59:24.000000,assistencia-tecnica/fogao-e-cooktop/continental/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop Continental,false
+281,2013-07-11 02:59:26.000000,assistencia-tecnica/computador-desktop/itautec/dentro-da-garantia,Assistências Técnicas para Computador Itautec,false
+285,2013-07-11 02:59:26.000000,assistencia-tecnica/televisao/samsung/fora-da-garantia,Assistências Técnicas para Televisor Samsung,false
+289,2013-07-11 02:59:27.000000,assistencia-tecnica/televisao/sony/fora-da-garantia,Assistências Técnicas para Televisor Sony,false
+293,2013-07-11 02:59:28.000000,assistencia-tecnica/televisao/toshiba/fora-da-garantia,Assistências Técnicas para Televisor Toshiba,false
+297,2013-07-11 02:59:30.000000,assistencia-tecnica/celular/lg,Assistências Técnicas para Celular LG,false
+301,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/lg,Assistências Técnicas para Computador LG,false
+305,2013-07-11 02:59:31.000000,assistencia-tecnica/computador-desktop/philco/fora-da-garantia,Assistências Técnicas para Computador Philco,false
+311,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/lg/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks LG,false
+316,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/samsung,Assistências Técnicas para Tablet Samsung,false
+320,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/toshiba,Assistências Técnicas para Tablet Toshiba,false
+324,2013-07-11 02:59:35.000000,assistencia-tecnica/aparelho-de-som,Assistências Técnicas para Aparelho de Som,false
+332,2013-07-11 02:59:36.000000,assistencia-tecnica/aparelho-de-som/outras,Assistências Técnicas para Aparelho de Som,false
+336,2013-07-11 02:59:37.000000,assistencia-tecnica/dvd-blu-ray,Assistências Técnicas para DVD / Blu Ray,false
+340,2013-07-11 02:59:38.000000,assistencia-tecnica/televisao/sharp,Assistências Técnicas para TV Sharp,false
+344,2013-07-11 02:59:39.000000,assistencia-tecnica/micro-ondas/outras,Assistências Técnicas para Micro Ondas,false
+348,2013-07-11 02:59:40.000000,assistencia-tecnica/celular/apple,Assistências Técnicas para Celular Apple,false
+352,2013-07-11 02:59:43.000000,assistencia-tecnica/tablet/apple/fora-da-garantia,Assistências Técnicas para Tablet Apple,false
+356,2013-07-11 02:59:45.000000,assistencia-tecnica/celular/nokia,Assistências Técnicas para Celular Nokia,false
+360,2013-07-11 02:59:47.000000,assistencia-tecnica/televisao/philips/dentro-da-garantia,Assistências Técnicas para Televisor Philips,false
+364,2013-07-11 02:59:48.000000,assistencia-tecnica/computador-desktop/apple/fora-da-garantia,Assistências Técnicas para Computador Apple,false
+368,2013-07-11 02:59:48.000000,assistencia-tecnica/celular/htc/fora-da-garantia,Assistências Técnicas para Celular Htc,false
+372,2013-07-11 02:59:51.000000,assistencia-tecnica/geladeira-e-freezer/samsung,Assistências Técnicas para Geladeira e Freezer Samsung,false
+376,2013-07-11 02:59:53.000000,assistencia-tecnica/fogao-e-cooktop/outras,Assistências Técnicas para Fogão e Cooktop,false
+380,2013-07-11 02:59:55.000000,assistencia-tecnica/micro-ondas/outras/fora-da-garantia,Assistências Técnicas para Micro Ondas,false
+384,2013-07-11 02:59:57.000000,assistencia-tecnica/computador-desktop/lenovo/dentro-da-garantia,Assistências Técnicas para Computador Lenovo,false
+388,2013-07-11 02:59:58.000000,assistencia-tecnica/impressora/hp/fora-da-garantia,Assistências Técnicas para Impressora HP,false
+392,2013-07-11 02:59:59.000000,assistencia-tecnica/impressora/canon/fora-da-garantia,Assistências Técnicas para Impressora Canon,false
+404,2013-07-11 03:00:04.000000,assistencia-tecnica/televisao/lg/dentro-da-garantia,Assistências Técnicas para Televisor Lg,false
+408,2013-07-11 03:00:05.000000,assistencia-tecnica/dvd-blu-ray/toshiba/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Toshiba,false
+412,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/toshiba,Assistências Técnicas para Home Theater Toshiba,false
+416,2013-07-11 03:00:07.000000,assistencia-tecnica/micro-ondas/lg/dentro-da-garantia,Assistências Técnicas para Micro Ondas LG,false
+420,2013-07-11 03:00:10.000000,assistencia-tecnica/video-game,Assistências Técnicas para Vídeo Games,false
+424,2013-07-11 03:00:10.000000,assistencia-tecnica/video-game/microsoft-xbox/fora-da-garantia,Assistências Técnicas para Videogame Microsoft Xbox,false
+431,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/lg/fora-da-garantia,Assistências Técnicas para Ar Condicionado LG,false
+435,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/fujitsu/fora-da-garantia,Assistências Técnicas para Ar Condicionado Fujitsu,false
+439,2013-07-11 03:00:14.000000,assistencia-tecnica/ar-condicionado/york/fora-da-garantia,Assistências Técnicas para Ar Condicionado York,false
+443,2013-07-11 03:00:18.000000,assistencia-tecnica/aparelho-de-som/samsung,Assistências Técnicas para Aparelho de Som Samsung,false
+447,2013-07-11 03:00:19.000000,assistencia-tecnica/dvd-blu-ray/lg/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray LG,false
+451,2013-07-11 03:00:20.000000,assistencia-tecnica/dvd-blu-ray/philips/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Philips,false
+455,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos/philco,Assistências Técnicas para Eletrodomésticos Philco,false
+459,2013-07-11 03:00:22.000000,assistencia-tecnica/telefone-nao-celular,Assistências Técnicas para Telefone,false
+463,2013-07-11 03:00:23.000000,assistencia-tecnica/tablet/outras,Assistências Técnicas para Tablet,false
+467,2013-07-11 03:00:24.000000,assistencia-tecnica/computador-desktop/lg/dentro-da-garantia,Assistências Técnicas para Computador LG,false
+475,2013-07-11 03:00:26.000000,assistencia-tecnica/televisao/panasonic/fora-da-garantia,Assistências Técnicas para Televisor Panasonic,false
+479,2013-07-11 03:00:30.000000,assistencia-tecnica/aparelho-de-som/britania,Assistências Técnicas para Aparelho de Som Britânia,false
+483,2013-07-11 03:00:31.000000,assistencia-tecnica/telefone-nao-celular/philco,Assistências Técnicas para Telefone Philco,false
+487,2013-07-11 03:00:34.000000,assistencia-tecnica/micro-ondas/panasonic,Assistências Técnicas para Micro Ondas Panasonic,false
+497,2013-07-11 03:00:40.000000,assistencia-tecnica/televisao/gradiente/fora-da-garantia,Assistências Técnicas para Televisor Gradiente,false
+501,2013-07-11 03:00:42.000000,assistencia-tecnica/aparelho-de-som/sony/fora-da-garantia,Assistências Técnicas para Aparelho de Som Sony,false
+509,2013-07-11 03:00:44.000000,assistencia-tecnica/camera/sony,Assistências Técnicas para Câmera Sony,false
+515,2013-07-11 03:00:45.000000,assistencia-tecnica/camera/samsung,Assistências Técnicas para Câmera Samsung,false
+519,2013-07-11 03:00:46.000000,assistencia-tecnica/notebooks-e-laptops/dell,Assistências Técnicas para Laptops e Notebooks Dell,false
+523,2013-07-11 03:00:48.000000,assistencia-tecnica/ar-condicionado/electrolux,Assistências Técnicas para Ar Condicionado Electrolux,false
+527,2013-07-11 03:00:50.000000,assistencia-tecnica/telefone-nao-celular/panasonic,Assistências Técnicas para Telefone Panasonic,false
+531,2013-07-11 03:00:51.000000,assistencia-tecnica/telefone-nao-celular/outras/fora-da-garantia,Assistências Técnicas para Telefone,false
+539,2013-07-11 03:00:54.000000,assistencia-tecnica/eletrodomesticos/arno/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Arno,false
+543,2013-07-11 03:00:55.000000,assistencia-tecnica/eletrodomesticos/electrolux/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Electrolux,false
+549,2013-07-11 03:00:58.000000,assistencia-tecnica/aparelho-de-som/aiwa,Assistências Técnicas para Aparelho de Som Aiwa,false
+553,2013-07-11 03:01:01.000000,assistencia-tecnica/lava-roupa/suggar/fora-da-garantia,Assistências Técnicas para Lava Roupa Suggar,false
+557,2013-07-11 03:01:05.000000,assistencia-tecnica/tablet/aoc/fora-da-garantia,Assistências Técnicas para Tablet AOC,false
+569,2013-07-11 03:01:09.000000,assistencia-tecnica/lava-louca/brastemp,Assistências Técnicas para Lava Louça Brastemp,false
+573,2013-07-11 03:01:10.000000,assistencia-tecnica/lava-louca/ge,Assistências Técnicas para Lava Louça GE,false
+579,2013-07-11 03:01:14.000000,assistencia-tecnica/notebooks-e-laptops/samsung/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Samsung,false
+585,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/midea/dentro-da-garantia,Assistências Técnicas para Micro Ondas Garantech,false
+589,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/samsung/dentro-da-garantia,Assistências Técnicas para Home Theater Samsung,false
+593,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/philco/dentro-da-garantia,Assistências Técnicas para Home Theater Philco,false
+597,2013-07-11 03:01:19.000000,assistencia-tecnica/ar-condicionado/outras/dentro-da-garantia,Assistências Técnicas para Ar Condicionado,false
+601,2013-07-11 03:01:22.000000,assistencia-tecnica/telefone-nao-celular/philips,Assistências Técnicas para Telefone Philips,false
+607,2013-07-11 03:01:26.000000,assistencia-tecnica/camera/olympus,Assistências Técnicas para Câmera Olympus,false
+611,2013-07-11 03:01:27.000000,assistencia-tecnica/notebooks-e-laptops/hp/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks HP,false
+615,2013-07-11 03:01:28.000000,assistencia-tecnica/notebooks-e-laptops/asus/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Asus,false
+619,2013-07-11 03:01:29.000000,assistencia-tecnica/computador-desktop/megaware/fora-da-garantia,Assistências Técnicas para Computador Megaware,false
+623,2013-07-11 03:01:30.000000,assistencia-tecnica/impressora/samsung/fora-da-garantia,Assistências Técnicas para Impressora Samsung,false
+627,2013-07-11 03:01:31.000000,assistencia-tecnica/tablet/acer/fora-da-garantia,Assistências Técnicas para Tablet Acer,false
+633,2013-07-11 03:01:34.000000,assistencia-tecnica/lava-roupa/wanke/fora-da-garantia,Assistências Técnicas para Lava Roupa Wanke,false
+637,2013-07-11 03:01:39.000000,assistencia-tecnica/ar-condicionado/philco,Assistências Técnicas para Ar Condicionado Philco,false
+643,2013-07-11 03:01:42.000000,assistencia-tecnica/computador-desktop/aoc/dentro-da-garantia,Assistências Técnicas para Computador AOC,false
+650,2013-07-11 03:01:44.000000,assistencia-tecnica/televisao/sony/dentro-da-garantia,Assistências Técnicas para Televisor Sony,false
+654,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/cce/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray CCE,false
+658,2013-07-11 03:01:48.000000,assistencia-tecnica/impressora/samsung/dentro-da-garantia,Assistências Técnicas para Impressora Samsung,false
+662,2013-07-11 03:01:50.000000,assistencia-tecnica/home-theater/samsung/fora-da-garantia,Assistências Técnicas para Home Theater Samsung,false
+666,2013-07-11 03:01:51.000000,assistencia-tecnica/home-theater/philips/fora-da-garantia,Assistências Técnicas para Home Theater Philips,false
+670,2013-07-11 03:02:01.000000,assistencia-tecnica/aparelho-de-som/cce/dentro-da-garantia,Assistências Técnicas para Aparelho de Som CCE,false
+678,2013-07-11 03:02:09.000000,assistencia-tecnica/camera/panasonic/dentro-da-garantia,Assistências Técnicas para Câmera Panasonic,false
+685,2013-07-11 03:02:10.000000,assistencia-tecnica/notebooks-e-laptops/outras/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks,false
+691,2013-07-11 03:02:11.000000,assistencia-tecnica/notebooks-e-laptops/asus/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Asus,false
+698,2013-07-11 03:02:12.000000,assistencia-tecnica/computador-desktop/lenovo/fora-da-garantia,Assistências Técnicas para Computador Lenovo,false
+704,2013-07-11 03:02:13.000000,assistencia-tecnica/micro-ondas/britania/fora-da-garantia,Assistências Técnicas para Micro Ondas Britânia,false
+708,2013-07-11 03:02:14.000000,assistencia-tecnica/telefone-nao-celular/samsung/fora-da-garantia,Assistências Técnicas para Telefone Samsung,false
+712,2013-07-11 03:02:16.000000,assistencia-tecnica/aparelho-de-som/cce/fora-da-garantia,Assistências Técnicas para Aparelho de Som CCE,false
+716,2013-07-11 03:02:25.000000,assistencia-tecnica/eletrodomesticos/britania/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Britânia,false
+720,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/toshiba/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Toshiba,false
+724,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/cce/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray CCE,false
+729,2013-07-11 03:02:36.000000,assistencia-tecnica/camera/outras/fora-da-garantia,Assistências Técnicas para Câmera,false
+733,2013-07-11 03:02:44.000000,assistencia-tecnica/home-theater/toshiba/fora-da-garantia,Assistências Técnicas para Home Theater Toshiba,false
+739,2013-07-11 03:03:36.000000,assistencia-tecnica/video-game/nintendo/fora-da-garantia,Assistências Técnicas para Videogame Nintendo,false
+746,2013-07-11 03:06:21.000000,aulas/danca/forro,Aulas de Dança - Forró,false
+754,2013-07-11 03:06:25.000000,aulas/danca/danca-do-ventre,Aulas de Danca do Ventre,false
+767,2013-07-11 03:06:48.000000,aulas/danca/funk,Aulas de Dança - Funk,false
+772,2013-07-11 03:06:55.000000,aulas/escolares-e-reforco/biologia/presencial,Professores particulares de Biologia,false
+776,2013-07-11 03:06:56.000000,aulas/escolares-e-reforco/geografia/presencial,Professores particulares de Geografia,false
+780,2013-07-11 03:06:57.000000,aulas/escolares-e-reforco/outros/presencial,Professores para Reforço,false
+784,2013-07-11 03:06:58.000000,aulas/escolares-e-reforco/quimica/presencial,Professores particulares de Química,false
+788,2013-07-11 03:07:09.000000,aulas/escolares-e-reforco/quimica/remoto,Professores particulares de Química,true
+792,2013-07-11 03:07:54.000000,aulas/escolares-e-reforco/outros/remoto,Professores para Reforço,true
+797,2013-07-11 03:09:14.000000,aulas/esportes/outros,Professores para Esportes,false
+805,2013-07-11 03:09:17.000000,aulas/esportes/futebol,Professores para Futebol,false
+811,2013-07-11 03:09:28.000000,aulas/idiomas/ingles/remoto,Professores de Ingles,true
+815,2013-07-11 03:09:29.000000,aulas/idiomas/outros/remoto,Professores para Idiomas,true
+819,2013-07-11 03:09:32.000000,aulas/idiomas/italiano,Professores de Italiano,false
+823,2013-07-11 03:09:33.000000,aulas/idiomas/portugues-para-estrangeiros/presencial,Professores de Português para Estrangeiros,false
+827,2013-07-11 03:09:43.000000,aulas/idiomas/portugues/presencial,Professores de Português,false
+831,2013-07-11 03:11:19.000000,aulas/informatica/editor-de-imagens-e-videos/presencial,Professores de Edição de Imagens e Vídeos,false
+835,2013-07-11 03:11:20.000000,aulas/informatica/outros/remoto,Professores de Informática,true
+839,2013-07-11 03:11:21.000000,aulas/informatica/pacote-office-completo/presencial,Professores de Pacote Office,false
+843,2013-07-11 03:11:42.000000,aulas/informatica/pacote-office-completo/remoto,Professores de Pacote Office,true
+847,2013-07-11 03:12:26.000000,aulas/musica/piano,Professores de Piano,false
+851,2013-07-11 03:12:27.000000,aulas/musica/bateria,Professores de Bateria,false
+860,2013-07-11 03:12:38.000000,aulas/musica/canto/remoto,Professores de Canto,true
+865,2013-07-11 03:12:56.000000,aulas/musica/teclado,Professores de Teclado,false
+869,2013-07-11 03:14:14.000000,aulas/concursos/outros,Aulas para Concursos,false
+873,2013-07-11 03:14:14.000000,aulas/concursos/matematica,Aulas de Matemática para Concursos,false
+877,2013-07-11 03:14:18.000000,aulas/concursos/idiomas/presencial,Aulas de Idiomas para Concursos,false
+881,2013-07-11 03:14:23.000000,aulas/concursos/informatica,Aulas de Informática para Concursos,false
+901,2013-08-01 03:10:51.000000,familia/passeador-de-caes,Passeadores de Cães,false
+905,2013-08-01 03:10:57.000000,aulas/artes-e-artesanatos,Aulas de Artes e Artesanatos,false
+909,2013-08-01 03:11:47.000000,reformas-e-reparos/montador-de-moveis,Montadores de Móveis,false
+914,2013-08-01 03:11:48.000000,reformas-e-reparos/paisagista,Paisagistas,false
+918,2013-08-14 23:48:32.000000,eventos/animacao-de-festas/recreacao-infantil,Recreadores Infantis,false
+923,2013-08-14 23:50:23.000000,eventos/garcons-e-copeiras/copeira,Garçons,false
+927,2013-08-14 23:52:40.000000,eventos/recepcionistas-e-cerimonialistas/cerimonialista,Cerimonialistas,false
+932,2013-08-16 03:44:22.000000,eventos/buffet-completo/formatura,Buffets,false
+936,2013-08-16 03:48:49.000000,eventos/seguranca,Seguranças,false
+940,2013-08-16 03:53:52.000000,eventos/buffet-completo/corporativo/espaco-e-comida,Buffets,false
+944,2013-08-16 03:56:15.000000,eventos/fotografia,Fotógrafos,false
+948,2013-08-16 17:18:55.000000,eventos/buffet-completo/casamento/espaco-e-comida,Buffets,false
+952,2013-08-19 18:23:28.000000,eventos/recepcionistas-e-cerimonialistas/locutor,Locutores,false
+956,2013-08-20 16:49:22.000000,eventos/buffet-completo/corporativo/somente-comida,Buffets,false
+961,2013-10-27 05:28:09.000000,assistencia-tecnica/impressora/epson,Assistências Técnicas para Impressora Epson,false
+965,2013-10-28 05:06:02.000000,assistencia-tecnica/celular/outros,Assistências Técnicas para Celular,false
+970,2014-07-02 22:25:44.000000,aulas/idiomas/alemao/remoto,Professores de Alemão,true
+975,2014-07-21 18:02:14.000000,reformas-e-reparos/pedreiro/construcao-em-geral,Pedreiros para Construção,false
+979,2014-07-21 18:41:01.000000,reformas-e-reparos/pedreiro/outros,Pedreiros,false
+983,2014-10-16 23:21:46.000000,saude,Profissionais de Saúde,false
+987,2014-10-16 23:35:19.000000,saude/quiropratico,Quiropráticos,false
+991,2014-10-16 23:47:07.000000,consultoria/advogado/empresarial,Advogados de Direito Empresarial,false
+995,2014-10-17 14:46:15.000000,consultoria/advogado/outros,Advogados,false
+999,2014-10-31 18:22:37.000000,familia/motorista/onibus,Motoristas de ônibus,false
+1003,2014-11-18 21:36:40.000000,assistencia-tecnica/aparelho-de-som/samsung/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Samsung,false
+1007,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/gree/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Gree,false
+1011,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/york/dentro-da-garantia,Assistências Técnicas para Ar Condicionado York,false
+1015,2014-11-18 21:36:40.000000,assistencia-tecnica/celular/htc/dentro-da-garantia,Assistências Técnicas para Celular Htc,false
+1019,2014-11-18 21:36:41.000000,assistencia-tecnica/computador-desktop/apple/dentro-da-garantia,Assistências Técnicas para Computador Apple,false
+1023,2014-11-18 21:36:41.000000,assistencia-tecnica/notebooks-e-laptops/apple/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Apple,false
+1027,2014-11-18 21:36:41.000000,assistencia-tecnica/fogao-e-cooktop/bosch/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop Bosch,false
+1031,2014-11-18 21:36:41.000000,assistencia-tecnica/fogao-e-cooktop/ge/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop GE,false
+1035,2014-11-18 21:36:41.000000,assistencia-tecnica/home-theater/sony/dentro-da-garantia,Assistências Técnicas para Home Theater Sony,false
+1039,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-louca/brastemp/dentro-da-garantia,Assistências Técnicas para Lava Louça Brastemp,false
+1043,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-roupa/outras/dentro-da-garantia,Assistências Técnicas para Lava Roupas,false
+1047,2014-11-18 21:36:42.000000,assistencia-tecnica/micro-ondas/consul/dentro-da-garantia,Assistências Técnicas para Micro Ondas Consul,false
+1051,2014-11-18 21:36:42.000000,assistencia-tecnica/outros/electrolux/dentro-da-garantia,Assistências Técnicas para produtos Electrolux,false
+1055,2014-11-18 21:36:42.000000,assistencia-tecnica/tablet/apple/dentro-da-garantia,Assistências Técnicas para Tablet Apple,false
+1059,2014-11-18 21:36:43.000000,assistencia-tecnica/tablet/positivo/dentro-da-garantia,Assistências Técnicas para Tablet Positivo,false
+1063,2014-11-18 21:36:43.000000,assistencia-tecnica/televisao/gradiente/dentro-da-garantia,Assistências Técnicas para Televisor Gradiente,false
+1067,2014-11-18 21:36:43.000000,aulas/concursos/administracao/remoto,Aulas de Administração para Concursos,true
+1071,2014-11-18 21:36:43.000000,aulas/concursos/portugues/remoto,Aulas de Português para Concursos,true
+1075,2014-11-18 21:36:43.000000,aulas/escolares-e-reforco/historia/remoto,Professores particulares de História,true
+1079,2014-11-18 21:36:44.000000,aulas/musica/piano/remoto,Professores de Piano,true
+1083,2015-01-28 15:45:17.000000,reformas-e-reparos/serralheria-e-solda/serralheria,Serralheiros,false
+1088,2015-01-28 16:39:54.000000,eventos/animacao-de-festas/personagens,Personagens para Festa Infantil,false
+1092,2015-01-29 19:32:59.000000,eventos/buffet-completo/aniversario/espaco-e-comida,Buffets,false
+1096,2015-04-01 19:51:48.000000,reformas-e-reparos/marceneiro/reparo-e-acabamento,Marceneiros,false
+1101,2015-04-01 20:26:47.000000,reformas-e-reparos/pintor/casa-ou-apartamento,Pintores,false
+1105,2015-04-01 20:55:21.000000,moda-e-beleza/esteticista,Esteticistas,false
+1109,2015-04-01 21:40:05.000000,reformas-e-reparos/piscina/construcao,Especialistas em Construção de Piscinas,false
+1113,2015-04-01 22:31:34.000000,reformas-e-reparos/engenheiro,Engenheiros,false
+1118,2015-04-01 22:48:55.000000,consultoria/detetive-particular,Detetives Particulares,true
+1122,2015-04-14 16:44:45.000000,automoveis,Serviços para Automóveis,false
+1126,2015-04-14 17:35:17.000000,automoveis/som-automotivo,especialistas em sons automotivos,false
+1130,2015-04-14 18:32:24.000000,automoveis/mecanica-geral,mecânicos,false
+1134,2015-05-14 18:55:29.000000,familia/motorista/onibus/motorista-sem-veiculo-proprio,Motoristas de ônibus,false
+1138,2015-05-28 18:19:48.000000,consultoria/traducao/italiano,Tradutores da língua italiana,true
+1142,2015-05-28 18:39:30.000000,consultoria/traducao/latim,Tradutores de latim,true
+1146,2015-05-28 22:13:39.000000,consultoria/traducao/portugues,Tradutores da língua portuguesa,true
+1150,2015-06-12 19:59:23.000000,eventos/bandas-e-cantores/mpb,Bandas e DJs,false
+1154,2015-06-12 20:09:54.000000,eventos/bandas-e-cantores/axe,Bandas e DJs,false
+1158,2015-06-26 13:07:17.000000,assistencia-tecnica/notebooks-e-laptops/lenovo/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Lenovo,false
+1162,2015-06-26 13:08:43.000000,assistencia-tecnica/eletrodomesticos/cadence/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Cadence,false
+1166,2015-06-26 13:10:09.000000,assistencia-tecnica/impressora/lexmark/fora-da-garantia,Assistências Técnicas para Impressora Lexmark,false
+1170,2015-06-26 13:11:20.000000,assistencia-tecnica/impressora/xerox/fora-da-garantia,Assistências Técnicas para Xerox,false
+1174,2015-06-26 13:13:18.000000,assistencia-tecnica/eletrodomesticos/philips-walita/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Philips Walita,false
+1178,2015-08-06 14:52:55.000000,assistencia-tecnica/telefonia-pabx/todas-as-marcas,Especialistas em telefonia PABX,false
+1206,2016-02-04 20:51:14.000000,eventos/djs/hip-hop,DJ's para tocar hip-hop,false
+1210,2016-02-05 19:52:17.000000,eventos/buffet-completo/outros/somente-espaco,Buffets,false
+1224,2016-02-16 21:58:19.000000,assistencia-tecnica/home-theater/outros,Assistências Técnicas para Home Theater,false
+1228,2016-03-22 17:20:10.000000,reformas-e-reparos/encanador/conserto-e-manutencao,Encanadores,false
+1232,2016-03-31 17:27:27.000000,reformas-e-reparos/mudancas-e-carretos/grandes-volumes,Profissionais de Carretos e mudanças,false
+1236,2016-05-05 13:56:47.000000,assistencia-tecnica/celular/lenovo,Assistências Técnicas para Celular Lenovo,false
+1240,2016-05-05 14:08:22.000000,assistencia-tecnica/celular/asus/dentro-da-garantia,Assistências Técnicas para Celular Asus,false
+1247,2016-05-11 14:56:48.000000,assistencia-tecnica/eletrodomesticos/consul/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Consul,false
+1252,2016-05-11 16:36:52.000000,assistencia-tecnica/eletrodomesticos/bosch/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Bosch,false
+1256,2016-05-11 16:53:24.000000,assistencia-tecnica/eletrodomesticos/samsung/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Samsung,false
+1260,2016-05-11 16:56:18.000000,assistencia-tecnica/eletrodomesticos/lg/fora-da-garantia,Assistências Técnicas para Eletrodomésticos LG,false
+1264,2016-05-11 17:22:29.000000,assistencia-tecnica/eletrodomesticos/mondial,Assistências Técnicas para Eletrodomésticos Mondial,false
+1268,2016-06-07 18:34:41.000000,assistencia-tecnica/impressora/brother/dentro-da-garantia,Assistências Técnicas para Impressora Brother,false
+1272,2016-06-08 14:38:03.000000,assistencia-tecnica/tablet/multilaser/fora-da-garantia,Assistências Técnicas para Tablet Multilaser,false
+1276,2016-06-16 14:48:30.000000,assistencia-tecnica/fogao-e-cooktop/dako,Assistências Técnicas para Fogão e Cooktop Dako,false
+1280,2016-06-17 19:40:41.000000,assistencia-tecnica/camera/gopro/dentro-da-garantia,Assistências Técnicas para Câmera Toshiba,false
+1285,2016-06-24 17:44:00.000000,reformas-e-reparos/tapeceiro/reformar-estofado,Tapeceiros para reformas,false
+1289,2016-07-08 18:00:37.000000,assistencia-tecnica/lava-louca/consul,Assistências Técnicas para Lava Louça Consul,false
+1293,2016-07-18 16:35:04.000000,aulas/musica/violao,Professores de Violão,false
+1297,2016-08-29 17:55:35.000000,consultoria/contador/fiscal-pessoa-juridica,Contador fiscal para pessoa Jurídica,true
+1301,2016-08-30 14:35:29.000000,reformas-e-reparos/chaveiro/troca-de-fechadura-ou-abertura,Chaveiros,false
+1305,2016-09-05 13:53:54.000000,aulas/musica/violao/presencial,Professores de Violão,false
+1309,2016-09-20 17:27:04.000000,reformas-e-reparos/eletricista/fiacao-eletrica,Eletricistas,false
+1313,2016-10-17 13:37:54.000000,consultoria/economia-e-financas/consultoria,Consultores Financeiros,true
+1318,2016-10-17 14:08:29.000000,consultoria/economia-e-financas/auxilio,Consultores Financeiros,true
+1322,2016-11-03 15:57:46.000000,aulas/idiomas/coreano,Professores de Coreano,false
+1326,2016-11-03 16:09:55.000000,aulas/idiomas/russo/presencial,Professores de Russo,false
+1330,2016-11-03 16:20:20.000000,aulas/idiomas/chines/remoto,Professores de Chinês,true
+1334,2016-11-03 16:39:44.000000,aulas/idiomas/sueco,Professores de Sueco,false
+1338,2016-11-03 17:13:54.000000,aulas/idiomas/holandes/presencial,Professores de Holandês,false
+1342,2016-11-03 17:22:02.000000,aulas/idiomas/mandarim/remoto,Professores de Mandarim,true
+1346,2016-11-03 18:03:18.000000,aulas/idiomas/dinamarques,Professores de Dinamarquês,false
+1350,2016-11-07 18:25:27.000000,eventos/decoracao/casamento/sertanejo,DJ's para tocar sertanejo,false
+1355,2016-11-17 18:26:10.000000,assistencia-tecnica/ar-condicionado/consul,Assistências Técnicas para Ar Condicionado Consul,false
+1359,2016-11-29 18:40:23.000000,aulas/esportes/basquete,Professores para Basquete,false
+1363,2016-11-29 19:43:48.000000,aulas/esportes/hipismo,Professores para Hipismo,false
+1367,2016-11-29 20:18:01.000000,aulas/bem-estar/ioga,Professores para Ioga,false
+1380,2016-12-02 20:04:39.000000,aulas/luta/jiu-jitsu,Professores para jiu jitsu,false
+1384,2016-12-02 20:12:53.000000,aulas/luta/boxe,Professores para Boxe,false
+1388,2016-12-02 20:17:31.000000,aulas/luta/outro,Professores para Lutas,false
+1392,2017-01-06 19:59:50.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/rodapes,Pedreiro para rodapés,false
+1396,2017-01-06 20:37:35.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/outro,Pisos e revestimentos,false
+1401,2017-02-23 17:53:32.000000,aulas/informatica/excel,Professores de Excel,true
+1406,2017-02-23 18:09:17.000000,aulas/danca/samba-de-gafieira,Aulas de Dança - Samba de Gafieira,false
+1410,2017-02-23 18:18:44.000000,aulas/danca/contemporanea,Aulas de Dança - Contemporânea,false
+1414,2017-02-23 18:40:09.000000,aulas/informatica/sketchup,Professores de Sketchup,true
+1418,2017-02-23 19:33:18.000000,aulas/idiomas/japones/presencial,Professores de Japonês,false
+1437,2017-08-29 14:45:53.000000,assistencia-tecnica/lava-roupa/samsung,Assistências Técnicas para Lava Roupa Samsung,false
+1441,2017-08-29 14:56:50.000000,assistencia-tecnica/lava-roupa/bosch/fora-da-garantia,Assistências Técnicas para Lava Roupa Bosch,false
+1445,2017-10-10 18:25:24.000000,automoveis/pintura,especialistas em pintura automotiva,false
+1449,2017-10-23 16:55:48.000000,automoveis/guincho,Guincho,false
+1469,2018-01-04 19:17:53.000000,reformas-e-reparos/pedreiro/calhas,Pedreiros para calhas,false
+1473,2018-01-31 17:42:37.000000,reformas-e-reparos/marmoraria-e-granitos,Profissionais especializados em Marmoraria e Granitos,false
+1477,2018-02-28 21:47:13.000000,consultoria/traducao-juramentada/espanhol,Tradutores Juramentados da língua espanhola,false
+1481,2018-02-28 22:19:06.000000,consultoria/traducao-juramentada/outros,Tradutores Juramentados,false
+761,2013-07-11 03:06:26.000000,aulas/artes-e-artesanatos/desenho-e-pintura/presencial,Aulas de Desenho e Pintura,false
+1422,2017-04-04 17:11:03.000000,aulas/artes-e-artesanatos/croche/presencial,Aulas de Crochê,false
+1429,2017-04-04 17:37:21.000000,aulas/artes-e-artesanatos/trico/remoto,Aulas à distância,true
+1433,2017-04-04 18:25:25.000000,aulas/artes-e-artesanatos/outros,Aulas de Outros,false
+491,2013-07-11 03:00:35.000000,assistencia-tecnica/aparelho-de-som/panasonic/fora-da-garantia,Assistências Técnicas para Aparelho de Som Panasonic,false
+561,2013-07-11 03:01:06.000000,assistencia-tecnica/aparelho-de-som/panasonic/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Panasonic,false
+535,2013-07-11 03:00:53.000000,assistencia-tecnica/micro-ondas/panasonic/dentro-da-garantia,Assistências Técnicas para Micro Ondas Panasonic,false
+3,2011-10-03 21:59:13.000000,aulas/musica,Professores de Música,false
+33,2011-10-03 22:15:28.000000,moda-e-beleza/personal-stylist,Personal Stylists,false
+56,2012-05-10 23:13:10.000000,consultoria/assessoria-de-imprensa,Assessores de Imprensa,true
+61,2012-05-10 23:13:10.000000,consultoria/outros,Consultoria,true
+71,2012-05-10 23:16:29.000000,design-e-tecnologia/audio-e-video,Editores de Vídeos,false
+84,2012-05-10 23:16:30.000000,design-e-tecnologia/criacao-de-logos,Designers de Logos,true
+90,2012-05-10 23:16:30.000000,familia/cozinheira,Cozinheiras,false
+96,2012-05-10 23:16:30.000000,reformas-e-reparos/desentupidor,Desentupidores,false
+100,2012-05-10 23:16:30.000000,reformas-e-reparos/marido-de-aluguel,Maridos de Aluguel,false
+105,2012-05-10 23:16:30.000000,moda-e-beleza/esoterico,Esoteristas,true
+115,2012-05-10 23:31:31.000000,eventos/bandas-e-cantores,Bandas e Cantores,false
+122,2012-05-10 23:31:31.000000,familia/outros,Profissionais de Serviços domésticos,false
+126,2012-05-17 04:37:07.000000,eventos/churrasqueiro,Churrasqueiros,false
+131,2012-05-17 04:38:27.000000,familia/motorista,Motoristas,false
+135,2012-05-17 04:42:00.000000,design-e-tecnologia/autocad-e-modelagem-3d,Especialistas em Modelagem,true
+141,2012-05-29 16:58:20.000000,moda-e-beleza/sapateiro,Sapateiros,false
+145,2012-06-28 13:27:27.000000,eventos/animacao-de-festas,Animadores de Festas Infantis,false
+149,2012-10-27 21:14:24.000000,design-e-tecnologia/animacao-motion,Criadores de animações,true
+162,,aulas,Professores,false
+170,,eventos,Profissionais de eventos,false
+175,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa,Assistências Técnicas para Lava Roupa ou Secadora,false
+179,2013-07-11 02:59:04.000000,assistencia-tecnica/lava-roupa/ge/fora-da-garantia,Assistências Técnicas para Lava Roupa GE,false
+183,2013-07-11 02:59:05.000000,assistencia-tecnica/lava-roupa/outras/fora-da-garantia,Assistências Técnicas para Lava Roupas,false
+187,2013-07-11 02:59:05.000000,assistencia-tecnica/geladeira-e-freezer/bosch,Assistências Técnicas para Geladeira e Freezer Bosch,false
+191,2013-07-11 02:59:06.000000,assistencia-tecnica/geladeira-e-freezer/lg,Assistências Técnicas para Geladeira e Freezer LG,false
+197,2013-07-11 02:59:07.000000,assistencia-tecnica/celular/motorola,Assistências Técnicas para Celular Motorola,false
+201,2013-07-11 02:59:07.000000,assistencia-tecnica/televisao/aoc/fora-da-garantia,Assistências Técnicas para Televisor Aoc,false
+205,2013-07-11 02:59:08.000000,assistencia-tecnica/computador-desktop/aoc,Assistências Técnicas para Computador AOC,false
+211,2013-07-11 02:59:09.000000,assistencia-tecnica/outros/consul/fora-da-garantia,Assistências Técnicas para produtos Consul,false
+215,2013-07-11 02:59:10.000000,assistencia-tecnica/outros/brastemp/fora-da-garantia,Assistências Técnicas para produtos Brastemp,false
+219,2013-07-11 02:59:11.000000,assistencia-tecnica/lava-roupa/brastemp/fora-da-garantia,Assistências Técnicas para Lava Roupa Brastemp,false
+223,2013-07-11 02:59:12.000000,assistencia-tecnica/fogao-e-cooktop/brastemp,Assistências Técnicas para Fogão e Cooktop Brastemp,false
+227,2013-07-11 02:59:13.000000,assistencia-tecnica/lava-roupa/consul,Assistências Técnicas para Lava Roupa Consul,false
+231,2013-07-11 02:59:13.000000,assistencia-tecnica/computador-desktop/cce,Assistências Técnicas para Computador CCE,false
+235,2013-07-11 02:59:14.000000,assistencia-tecnica/notebooks-e-laptops,Assistências Técnicas para Notebooks e Laptops,false
+241,2013-07-11 02:59:14.000000,assistencia-tecnica/notebooks-e-laptops/outras/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks,false
+245,2013-07-11 02:59:15.000000,assistencia-tecnica/televisao/cce/dentro-da-garantia,Assistências Técnicas para Televisor Cce,false
+249,2013-07-11 02:59:16.000000,assistencia-tecnica/lava-roupa/electrolux/dentro-da-garantia,Assistências Técnicas para Lava Roupa Electrolux,false
+253,2013-07-11 02:59:17.000000,assistencia-tecnica/lava-roupa/ge/dentro-da-garantia,Assistências Técnicas para Lava Roupa GE,false
+257,2013-07-11 02:59:18.000000,assistencia-tecnica/geladeira-e-freezer/consul,Assistências Técnicas para Geladeira e Freezer Consul,false
+261,2013-07-11 02:59:19.000000,assistencia-tecnica/geladeira-e-freezer/continental,Assistências Técnicas para Geladeira e Freezer Continental,false
+265,2013-07-11 02:59:20.000000,assistencia-tecnica/geladeira-e-freezer/lg/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer LG,false
+270,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/brastemp,Assistências Técnicas para Micro Ondas Brastemp,false
+274,2013-07-11 02:59:23.000000,assistencia-tecnica/micro-ondas/electrolux,Assistências Técnicas para Micro Ondas Electrolux,false
+278,2013-07-11 02:59:25.000000,assistencia-tecnica/fogao-e-cooktop/ge,Assistências Técnicas para Fogão e Cooktop GE,false
+282,2013-07-11 02:59:26.000000,assistencia-tecnica/notebooks-e-laptops/itautec,Assistências Técnicas para Laptops e Notebooks Itautec,false
+286,2013-07-11 02:59:27.000000,assistencia-tecnica/televisao/lg,Assistências Técnicas para TV Lg,false
+290,2013-07-11 02:59:28.000000,assistencia-tecnica/televisao/h-buster,Assistências Técnicas para TV H-Buster,false
+294,2013-07-11 02:59:29.000000,assistencia-tecnica/televisao/philco/fora-da-garantia,Assistências Técnicas para Televisor Philco,false
+298,2013-07-11 02:59:30.000000,assistencia-tecnica/celular/lg/fora-da-garantia,Assistências Técnicas para Celular LG,false
+302,2013-07-11 02:59:30.000000,assistencia-tecnica/computador-desktop/lg/fora-da-garantia,Assistências Técnicas para Computador LG,false
+308,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/samsung,Assistências Técnicas para Laptops e Notebooks Samsung,false
+312,2013-07-11 02:59:32.000000,assistencia-tecnica/notebooks-e-laptops/toshiba,Assistências Técnicas para Laptops e Notebooks Toshiba,false
+317,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/samsung/fora-da-garantia,Assistências Técnicas para Tablet Samsung,false
+321,2013-07-11 02:59:33.000000,assistencia-tecnica/tablet/toshiba/fora-da-garantia,Assistências Técnicas para Tablet Toshiba,false
+327,2013-07-11 02:59:35.000000,assistencia-tecnica/impressora,Assistências Técnicas para Impressora,false
+333,2013-07-11 02:59:36.000000,assistencia-tecnica/aparelho-de-som/outras/dentro-da-garantia,Assistências Técnicas para Aparelho de Som,false
+337,2013-07-11 02:59:37.000000,assistencia-tecnica/dvd-blu-ray/outras,Assistências Técnicas para DVD / Blu Ray,false
+341,2013-07-11 02:59:38.000000,assistencia-tecnica/televisao/sharp/dentro-da-garantia,Assistências Técnicas para Televisor Sharp,false
+345,2013-07-11 02:59:39.000000,assistencia-tecnica/micro-ondas/outras/dentro-da-garantia,Assistências Técnicas para Micro Ondas,false
+349,2013-07-11 02:59:40.000000,assistencia-tecnica/celular/apple/fora-da-garantia,Assistências Técnicas para Celular Apple,false
+353,2013-07-11 02:59:44.000000,assistencia-tecnica/celular/sony,Assistências Técnicas para Celular Sony,false
+357,2013-07-11 02:59:45.000000,assistencia-tecnica/celular/nokia/fora-da-garantia,Assistências Técnicas para Celular Nokia,false
+361,2013-07-11 02:59:47.000000,assistencia-tecnica/computador-desktop/oac,Assistências Técnicas para Computador OAC,false
+365,2013-07-11 02:59:48.000000,assistencia-tecnica/notebooks-e-laptops/apple,Assistências Técnicas para Laptops e Notebooks Apple,false
+369,2013-07-11 02:59:49.000000,assistencia-tecnica/celular/blackberry,Assistências Técnicas para Celular Blackberry,false
+373,2013-07-11 02:59:51.000000,assistencia-tecnica/geladeira-e-freezer/samsung/fora-da-garantia,Assistências Técnicas para Geladeira e Freezer Samsung,false
+377,2013-07-11 02:59:53.000000,assistencia-tecnica/fogao-e-cooktop/outras/fora-da-garantia,Assistências Técnicas para Fogão e Cooktop,false
+381,2013-07-11 02:59:56.000000,assistencia-tecnica/ar-condicionado/outras,Assistências Técnicas para Ar Condicionado,false
+385,2013-07-11 02:59:58.000000,assistencia-tecnica/computador-desktop/hp,Assistências Técnicas para Computador Hp,false
+389,2013-07-11 02:59:58.000000,assistencia-tecnica/impressora/outras,Assistências Técnicas para Impressoras,false
+401,2013-07-11 03:00:03.000000,assistencia-tecnica/celular/nextel,Assistências Técnicas para Celular Nextel,false
+405,2013-07-11 03:00:05.000000,assistencia-tecnica/dvd-blu-ray/lg,Assistências Técnicas para DVD / Blu Ray LG,false
+409,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater,Assistências Técnicas para Home Theater,false
+413,2013-07-11 03:00:06.000000,assistencia-tecnica/home-theater/toshiba/dentro-da-garantia,Assistências Técnicas para Home Theater Toshiba,false
+417,2013-07-11 03:00:07.000000,assistencia-tecnica/micro-ondas/toshiba,Assistências Técnicas para Micro Ondas Toshiba,false
+421,2013-07-11 03:00:10.000000,assistencia-tecnica/video-game/sony-playstation,Assistências Técnica para Playstation,false
+428,2013-07-11 03:00:12.000000,assistencia-tecnica/ar-condicionado/springer-carrier,Assistências Técnicas para Ar Condicionado Springer Carrier,false
+432,2013-07-11 03:00:13.000000,assistencia-tecnica/ar-condicionado/komeco,Assistências Técnicas para Ar Condicionado Komeco,false
+436,2013-07-11 03:00:14.000000,assistencia-tecnica/ar-condicionado/gree,Assistências Técnicas para Ar Condicionado Gree,false
+440,2013-07-11 03:00:17.000000,assistencia-tecnica/aparelho-de-som/lg,Assistências Técnicas para Aparelho de Som LG,false
+444,2013-07-11 03:00:18.000000,assistencia-tecnica/aparelho-de-som/samsung/fora-da-garantia,Assistências Técnicas para Aparelho de Som Samsung,false
+448,2013-07-11 03:00:20.000000,assistencia-tecnica/dvd-blu-ray/samsung,Assistências Técnicas para DVD / Blu Ray Samsung,false
+452,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos,Assistências Técnicas para Eletrodomésticos,false
+456,2013-07-11 03:00:21.000000,assistencia-tecnica/eletrodomesticos/philco/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Philco,false
+460,2013-07-11 03:00:22.000000,assistencia-tecnica/telefone-nao-celular/outras,Assistências Técnicas para Telefone,false
+464,2013-07-11 03:00:23.000000,assistencia-tecnica/tablet/outras/dentro-da-garantia,Assistências Técnicas para Tablet,false
+468,2013-07-11 03:00:25.000000,assistencia-tecnica/notebooks-e-laptops/positivo,Assistências Técnicas para Laptops e Notebooks Positivo,false
+476,2013-07-11 03:00:27.000000,assistencia-tecnica/televisao/h-buster/fora-da-garantia,Assistências Técnicas para Televisor H Buster,false
+480,2013-07-11 03:00:30.000000,assistencia-tecnica/aparelho-de-som/britania/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Britânia,false
+484,2013-07-11 03:00:31.000000,assistencia-tecnica/telefone-nao-celular/philco/dentro-da-garantia,Assistências Técnicas para Telefone Philco,false
+494,2013-07-11 03:00:38.000000,assistencia-tecnica/dvd-blu-ray/philips/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Philips,false
+498,2013-07-11 03:00:42.000000,assistencia-tecnica/aparelho-de-som/gradiente,Assistências Técnicas para Aparelho de Som Gradiente,false
+502,2013-07-11 03:00:43.000000,assistencia-tecnica/aparelho-de-som/toshiba,Assistências Técnicas para Aparelho de Som Toshiba,false
+510,2013-07-11 03:00:44.000000,assistencia-tecnica/camera/sony/fora-da-garantia,Assistências Técnicas para Câmera Sony,false
+516,2013-07-11 03:00:45.000000,assistencia-tecnica/camera/samsung/fora-da-garantia,Assistências Técnicas para Câmera Samsung,false
+520,2013-07-11 03:00:47.000000,assistencia-tecnica/notebooks-e-laptops/dell/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Dell,false
+524,2013-07-11 03:00:48.000000,assistencia-tecnica/ar-condicionado/electrolux/fora-da-garantia,Assistências Técnicas para Ar Condicionado Electrolux,false
+528,2013-07-11 03:00:50.000000,assistencia-tecnica/telefone-nao-celular/panasonic/fora-da-garantia,Assistências Técnicas para Telefone Panasonic,false
+532,2013-07-11 03:00:52.000000,assistencia-tecnica/televisao/panasonic/dentro-da-garantia,Assistências Técnicas para Televisor Panasonic,false
+536,2013-07-11 03:00:53.000000,assistencia-tecnica/dvd-blu-ray/pioneer,Assistências Técnicas para DVD / Blu Ray Pioneer,false
+540,2013-07-11 03:00:54.000000,assistencia-tecnica/eletrodomesticos/brastemp,Assistências Técnicas para Eletrodomésticos Brastemp,false
+546,2013-07-11 03:00:55.000000,assistencia-tecnica/camera/sony/dentro-da-garantia,Assistências Técnicas para Câmera Sony,false
+550,2013-07-11 03:00:59.000000,assistencia-tecnica/aparelho-de-som/aiwa/fora-da-garantia,Assistências Técnicas para Aparelho de Som Aiwa,false
+554,2013-07-11 03:01:05.000000,assistencia-tecnica/dvd-blu-ray/britania,Assistências Técnicas para DVD / Blu Ray Britânia,false
+558,2013-07-11 03:01:06.000000,assistencia-tecnica/telefone-nao-celular/panasonic/dentro-da-garantia,Assistências Técnicas para Telefone Panasonic,false
+566,2013-07-11 03:01:08.000000,assistencia-tecnica/video-game/nintendo,Assistências Técnicas para Nintendo,false
+570,2013-07-11 03:01:10.000000,assistencia-tecnica/lava-louca/brastemp/fora-da-garantia,Assistências Técnicas para Lava Louça Brastemp,false
+574,2013-07-11 03:01:10.000000,assistencia-tecnica/lava-louca/ge/fora-da-garantia,Assistências Técnicas para Lava Louça GE,false
+582,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/britania,Assistências Técnicas para Micro Ondas Britânia,false
+586,2013-07-11 03:01:15.000000,assistencia-tecnica/micro-ondas/philco-d4e1334c-ddf8-49ad-ae14-0b7873088ab7,Assistências Técnicas para Micro Ondas Philco,false
+590,2013-07-11 03:01:16.000000,assistencia-tecnica/home-theater/panasonic,Assistências Técnicas para Home Theater Panasonic,false
+594,2013-07-11 03:01:17.000000,assistencia-tecnica/telefone-nao-celular/samsung,Assistências Técnicas para Telefone Samsung,false
+598,2013-07-11 03:01:19.000000,assistencia-tecnica/geladeira-e-freezer/outras,Assistências Técnicas para Geladeiras e Freezers,false
+602,2013-07-11 03:01:22.000000,assistencia-tecnica/telefone-nao-celular/philips/dentro-da-garantia,Assistências Técnicas para Telefone Philips,false
+608,2013-07-11 03:01:26.000000,assistencia-tecnica/camera/olympus/dentro-da-garantia,Assistências Técnicas para Câmera Olympus,false
+612,2013-07-11 03:01:27.000000,assistencia-tecnica/notebooks-e-laptops/acer,Assistências Técnicas para Laptops e Notebooks Acer,false
+616,2013-07-11 03:01:28.000000,assistencia-tecnica/computador-desktop/positivo/fora-da-garantia,Assistências Técnicas para Computador Positivo,false
+620,2013-07-11 03:01:29.000000,assistencia-tecnica/notebooks-e-laptops/acer/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Acer,false
+624,2013-07-11 03:01:31.000000,assistencia-tecnica/tablet/positivo,Assistências Técnicas para Tablet Positivo,false
+630,2013-07-11 03:01:33.000000,assistencia-tecnica/lava-roupa/mueller,Assistências Técnicas para Lava Roupa Mueller,false
+634,2013-07-11 03:01:34.000000,assistencia-tecnica/aparelho-de-som/toshiba/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Toshiba,false
+638,2013-07-11 03:01:39.000000,assistencia-tecnica/ar-condicionado/philco/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Philco,false
+647,2013-07-11 03:01:44.000000,assistencia-tecnica/celular/sony/dentro-da-garantia,Assistências Técnicas para Celular Sony Ericsson,false
+651,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/sony,Assistências Técnicas para DVD / Blu Ray Sony,false
+655,2013-07-11 03:01:46.000000,assistencia-tecnica/dvd-blu-ray/aoc,Assistências Técnicas para DVD / Blu Ray AOC,false
+659,2013-07-11 03:01:49.000000,assistencia-tecnica/dvd-blu-ray/samsung/dentro-da-garantia,Assistências Técnicas para DVD / Blu Ray Samsung,false
+663,2013-07-11 03:01:50.000000,assistencia-tecnica/home-theater/sony,Assistências Técnicas para Home Theater Sony,false
+667,2013-07-11 03:01:54.000000,assistencia-tecnica/geladeira-e-freezer/outras/fora-da-garantia,Assistências Técnicas para Geladeiras e Freezers,false
+675,2013-07-11 03:02:08.000000,assistencia-tecnica/lava-roupa/colormaq,Assistências Técnicas para Lava Roupa Colormaq,false
+679,2013-07-11 03:02:09.000000,assistencia-tecnica/dvd-blu-ray/panasonic,Assistências Técnicas para DVD / Blu Ray Panasonic,false
+686,2013-07-11 03:02:11.000000,assistencia-tecnica/notebooks-e-laptops/itautec/fora-da-garantia,Assistências Técnicas para Laptops e Notebooks Itautec,false
+695,2013-07-11 03:02:12.000000,assistencia-tecnica/computador-desktop/outras/fora-da-garantia,Assistências Técnicas para Computadores,false
+700,2013-07-11 03:02:12.000000,assistencia-tecnica/computador-desktop/sony/fora-da-garantia,Assistências Técnicas para Computador Sony,false
+705,2013-07-11 03:02:13.000000,assistencia-tecnica/micro-ondas/midea/fora-da-garantia,Assistências Técnicas para Micro Ondas Garantech,false
+709,2013-07-11 03:02:14.000000,assistencia-tecnica/telefone-nao-celular/philips/fora-da-garantia,Assistências Técnicas para Telefone Philips,false
+713,2013-07-11 03:02:17.000000,assistencia-tecnica/ar-condicionado/philco/fora-da-garantia,Assistências Técnicas para Ar Condicionado Philco,false
+717,2013-07-11 03:02:26.000000,assistencia-tecnica/eletrodomesticos/philco/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Philco,false
+721,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/philco/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray Philco,false
+725,2013-07-11 03:02:29.000000,assistencia-tecnica/dvd-blu-ray/aoc/fora-da-garantia,Assistências Técnicas para DVD / Blu Ray AOC,false
+730,2013-07-11 03:02:36.000000,assistencia-tecnica/camera/nikon/fora-da-garantia,Assistências Técnicas para Câmera Nikon,false
+734,2013-07-11 03:02:44.000000,assistencia-tecnica/home-theater/lenoxx/fora-da-garantia,Assistências Técnicas para Home Theater Lenoxx,false
+740,2013-07-11 03:06:20.000000,aulas/danca/danca-de-salao-e-samba,Aulas de Danca de Salao e Samba,false
+748,2013-07-11 03:06:22.000000,aulas/danca/sertanejo-universitario,Aulas de Sertanejo Universitário,false
+756,2013-07-11 03:06:25.000000,aulas/danca/pole-dance,Aulas de Dança - Pole Dance,false
+762,2013-07-11 03:06:26.000000,aulas/danca/teatro,Aulas de Teatro,false
+769,2013-07-11 03:06:55.000000,aulas/escolares-e-reforco/matematica,Professores particulares de Matemática,false
+773,2013-07-11 03:06:56.000000,aulas/escolares-e-reforco/fisica,Professores particulares de Física,false
+777,2013-07-11 03:06:57.000000,aulas/escolares-e-reforco/historia,Professores particulares de História,false
+781,2013-07-11 03:06:58.000000,aulas/escolares-e-reforco/portugues,Professores particulares de Português,false
+785,2013-07-11 03:07:08.000000,aulas/escolares-e-reforco/biologia/remoto,Professores particulares de Biologia,true
+789,2013-07-11 03:07:16.000000,aulas/escolares-e-reforco/sociologia-e-filosofia,Professores particulares de Sociologia e Filosofia,false
+793,2013-07-11 03:08:19.000000,aulas/escolares-e-reforco/ciencias,Professores particulares de Ciências,false
+799,2013-07-11 03:09:14.000000,aulas/esportes/skate,Professores para Skate,false
+807,2013-07-11 03:09:22.000000,aulas/esportes/natacao,Professores para Natação,false
+812,2013-07-11 03:09:28.000000,aulas/idiomas/portugues-para-estrangeiros,Professores de Português para Estrangeiros,false
+816,2013-07-11 03:09:29.000000,aulas/idiomas/outros/presencial,Professores para Idiomas,false
+820,2013-07-11 03:09:32.000000,aulas/idiomas/italiano/presencial,Professores de Italiano,false
+824,2013-07-11 03:09:35.000000,aulas/idiomas/alemao,Professores de Alemão,false
+828,2013-07-11 03:10:08.000000,aulas/idiomas/italiano/remoto,Professores de Italiano,true
+832,2013-07-11 03:11:19.000000,aulas/informatica/informatica-basica,Professores de Informática Básica,false
+836,2013-07-11 03:11:20.000000,aulas/informatica/programacao,Professores de Programação,false
+840,2013-07-11 03:11:23.000000,aulas/informatica/outros/presencial,Professores de Informática,false
+844,2013-07-11 03:11:43.000000,aulas/informatica/informatica-basica/remoto,Professores de Informática Básica,true
+848,2013-07-11 03:12:26.000000,aulas/musica/piano/presencial,Professores de Piano,false
+852,2013-07-11 03:12:27.000000,aulas/musica/bateria/presencial,Professores de Bateria,false
+862,2013-07-11 03:12:38.000000,aulas/musica/outros/remoto,Professores de Música,true
+866,2013-07-11 03:12:56.000000,aulas/musica/teclado/presencial,Professores de Teclado,false
+870,2013-07-11 03:14:14.000000,aulas/concursos/outros/presencial,Aulas para Concursos,false
+874,2013-07-11 03:14:14.000000,aulas/concursos/matematica/presencial,Aulas de Matemática para Concursos,false
+878,2013-07-11 03:14:21.000000,aulas/concursos/direito,Aulas de Direito para Concursos,false
+882,2013-07-11 03:14:23.000000,aulas/concursos/informatica/presencial,Aulas de Informática para Concursos,false
+902,2013-08-01 03:10:56.000000,eventos/gravacao-de-videos,Profissionais de Gravação de Vídeos,false
+906,2013-08-01 03:10:59.000000,moda-e-beleza/maquiadores,Maquiadores,false
+911,2013-08-01 03:11:48.000000,consultoria/auxilio-administrativo,Auxiliares administrativos,true
+915,2013-08-01 03:11:55.000000,eventos/garcons-e-copeiras,Garçons e Copeiras,false
+919,2013-08-14 23:48:33.000000,eventos/animacao-de-festas/outros,Animadores de Festas,false
+924,2013-08-14 23:50:36.000000,eventos/garcons-e-copeiras/garcom,Garçons,false
+929,2013-08-16 03:40:35.000000,eventos/buffet-completo/aniversario,Buffets,false
+933,2013-08-16 03:45:14.000000,eventos/buffet-completo/debutante/somente-comida,Buffets,false
+937,2013-08-16 03:50:17.000000,eventos/decoracao/aniversario,Decoradoras de Aniversário,false
+941,2013-08-16 03:54:17.000000,eventos/buffet-completo/formatura/somente-comida,Buffets,false
+945,2013-08-16 03:56:39.000000,eventos/fotografia/fotografia-de-eventos,Fotógrafos para Eventos,false
+949,2013-08-16 17:19:20.000000,eventos/buffet-completo/debutante/espaco-e-comida,Buffets,false
+953,2013-08-20 15:06:02.000000,design-e-tecnologia/audio-e-video/edicao-de-video,Profissionais de Edição de Vídeo,false
+958,2013-10-25 13:56:57.000000,assistencia-tecnica/notebooks-e-laptops/lenovo,Assistências Técnicas para Laptops e Notebooks Lenovo,false
+962,2013-10-27 05:28:32.000000,assistencia-tecnica/impressora/lexmark,Assistências Técnicas para Impressora Lexmark,false
+967,2013-12-16 15:51:50.000000,moda-e-beleza/corte-e-costura,Costureiras,false
+971,2014-07-02 22:33:58.000000,aulas/idiomas/frances/remoto,Professores de Francês,true
+976,2014-07-21 18:04:45.000000,reformas-e-reparos/pedreiro/telhados-e-telhas,Pedreiro para telhados e telhas,false
+980,2014-07-21 18:58:45.000000,reformas-e-reparos/pedreiro/portas-e-janelas,Pedreiro para portas e janelas,false
+984,2014-10-16 23:26:34.000000,saude/enfermeira,Enfermeiras,false
+988,2014-10-16 23:38:15.000000,saude/fonoaudiologo,Fonoaudiólogos,false
+992,2014-10-16 23:50:30.000000,consultoria/advogado/familia,Advogados de Direito de Família,false
+996,2014-10-17 14:48:43.000000,saude/fisioterapeuta,Fisioterapeutas,false
+1000,2014-10-31 19:39:42.000000,consultoria/contador,Contadores,true
+1004,2014-11-18 21:36:40.000000,assistencia-tecnica/aparelho-de-som/sony/dentro-da-garantia,Assistências Técnicas para Aparelho de Som Sony,false
+1008,2014-11-18 21:36:40.000000,assistencia-tecnica/ar-condicionado/komeco/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Komeco,false
+1012,2014-11-18 21:36:40.000000,assistencia-tecnica/camera/canon/dentro-da-garantia,Assistências Técnicas para Câmera Cannon,false
+1016,2014-11-18 21:36:41.000000,assistencia-tecnica/celular/nextel/dentro-da-garantia,Assistências Técnicas para Celular Nextel,false
+1020,2014-11-18 21:36:41.000000,assistencia-tecnica/computador-desktop/dell/dentro-da-garantia,Assistências Técnicas para Computador Dell,false
+1024,2014-11-18 21:36:41.000000,assistencia-tecnica/notebooks-e-laptops/dell/dentro-da-garantia,Assistências Técnicas para Laptops e Notebooks Dell,false
+1028,2014-11-18 21:36:41.000000,assistencia-tecnica/fogao-e-cooktop/brastemp/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop Brastemp,false
+1032,2014-11-18 21:36:41.000000,assistencia-tecnica/geladeira-e-freezer/mabe/dentro-da-garantia,Assistências Técnicas para Geladeira e Freezer Mabe,false
+1036,2014-11-18 21:36:42.000000,assistencia-tecnica/impressora/canon/dentro-da-garantia,Assistências Técnicas para Impressora Canon,false
+1040,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-louca/electrolux/dentro-da-garantia,Assistências Técnicas para Lava Louça Electrolux,false
+1044,2014-11-18 21:36:42.000000,assistencia-tecnica/lava-roupa/suggar/dentro-da-garantia,Assistências Técnicas para Lava Roupa Suggar,false
+1048,2014-11-18 21:36:42.000000,assistencia-tecnica/micro-ondas/electrolux/dentro-da-garantia,Assistências Técnicas para Micro Ondas Electrolux,false
+1052,2014-11-18 21:36:42.000000,assistencia-tecnica/outros/lg/dentro-da-garantia,Assistências Técnicas para produtos LG,false
+1056,2014-11-18 21:36:42.000000,assistencia-tecnica/tablet/dl/dentro-da-garantia,Assistências Técnicas para Tablet DL,false
+1060,2014-11-18 21:36:43.000000,assistencia-tecnica/tablet/toshiba/dentro-da-garantia,Assistências Técnicas para Tablet Toshiba,false
+1064,2014-11-18 21:36:43.000000,assistencia-tecnica/video-game/microsoft-xbox/dentro-da-garantia,Assistências Técnicas para Videogame Microsoft Xbox,false
+1068,2014-11-18 21:36:43.000000,aulas/concursos/direito/remoto,Aulas de Direito para Concursos,true
+1072,2014-11-18 21:36:43.000000,aulas/concursos/preparacao-fisica/remoto,Aulas de Preparação Física para Concursos,true
+1076,2014-11-18 21:36:44.000000,aulas/escolares-e-reforco/sociologia-e-filosofia/remoto,Professores particulares de Sociologia e Filosofia,true
+1080,2014-11-18 21:36:44.000000,aulas/musica/sopro/remoto,Professores de Sopro,true
+1084,2015-01-28 15:51:39.000000,reformas-e-reparos/serralheria-e-solda/soldagem,Soldadores,false
+1089,2015-01-28 16:42:06.000000,eventos/animacao-de-festas/palhaco,Palhaços,false
+1093,2015-01-29 19:34:48.000000,eventos/buffet-completo/casamento/somente-comida,Buffets,false
+1098,2015-04-01 20:05:07.000000,reformas-e-reparos/marceneiro/restauracao,Marceneiros,false
+1102,2015-04-01 20:30:27.000000,reformas-e-reparos/pintor/casa-ou-apartamento/interno,Pintores,false
+1106,2015-04-01 21:06:20.000000,eventos/brindes-e-lembrancinhas,Profissionais de Brindes e Lembrancinhas,false
+1110,2015-04-01 21:59:05.000000,reformas-e-reparos/piscina/manutencao,Especialistas em Manutenção de Piscinas,false
+1114,2015-04-01 22:38:14.000000,assistencia-tecnica/cabeamento-e-redes,Assistências Técnicas para Cabeamento e Redes,false
+1119,2015-04-02 21:10:25.000000,familia/motorista/carro/motorista-com-veiculo-proprio,Motoristas,false
+1123,2015-04-14 16:51:13.000000,automoveis/funilaria-automotiva,especialistas em  funilaria automotiva,false
+1127,2015-04-14 17:58:00.000000,automoveis/ar-condicionado-automotivo,especialistas em ar condicionado automotivo,false
+1131,2015-05-14 18:50:52.000000,familia/motorista/van/motorista-com-veiculo-proprio,Motoristas de van,false
+1135,2015-05-28 18:11:32.000000,consultoria/traducao/ingles,Tradutores da língua inglesa,true
+1139,2015-05-28 18:22:09.000000,consultoria/traducao/alemao,Tradutores da língua alemã,true
+1143,2015-05-28 18:50:55.000000,consultoria/traducao/hebraico,Tradutores da língua hebraica,true
+1147,2015-06-12 19:54:05.000000,eventos/bandas-e-cantores/ecletico,Bandas e DJs,false
+1151,2015-06-12 20:00:18.000000,eventos/bandas-e-cantores/samba,Bandas e DJs,false
+1155,2015-06-12 20:10:52.000000,eventos/bandas-e-cantores/forro,Bandas e DJs,false
+1159,2015-06-26 13:07:44.000000,assistencia-tecnica/fogao-e-cooktop/mueller/dentro-da-garantia,Assistências Técnicas para Fogão e Cooktop Mueller,false
+1163,2015-06-26 13:09:08.000000,assistencia-tecnica/impressora/epson/dentro-da-garantia,Assistências Técnicas para Impressora Epson,false
+1167,2015-06-26 13:10:27.000000,assistencia-tecnica/impressora/zebra/dentro-da-garantia,Assistências Técnicas para Impressora Zebra,false
+1171,2015-06-26 13:12:15.000000,assistencia-tecnica/celular/outros/dentro-da-garantia,Assistências Técnicas para Celular,false
+1175,2015-06-26 18:50:14.000000,eventos/djs/eletronica,DJ's para tocar Eletrônica,false
+1179,2016-01-27 13:38:10.000000,eventos/decoracao/debutante,Decoradoras de eventos de Debutante,false
+1207,2016-02-04 20:52:38.000000,eventos/djs/pop,DJ's para tocar pop,false
+1211,2016-02-05 19:52:51.000000,eventos/buffet-completo/outros/espaco-e-comida,Buffets,false
+1225,2016-02-16 21:59:30.000000,assistencia-tecnica/home-theater/outros/dentro-da-garantia,Assistências Técnicas para Home Theater,false
+1229,2016-03-22 17:23:39.000000,reformas-e-reparos/encanador/desentupimento,Desentupidores,false
+1233,2016-03-31 17:28:26.000000,reformas-e-reparos/mudancas-e-carretos/pequenos-carretos,Carreteiros,false
+1237,2016-05-05 13:58:23.000000,assistencia-tecnica/celular/lenovo/dentro-da-garantia,Assistências Técnicas para Celular Nexus,false
+1241,2016-05-05 14:10:09.000000,assistencia-tecnica/celular/asus/fora-da-garantia,Assistências Técnicas para Celular Asus,false
+1248,2016-05-11 14:57:58.000000,assistencia-tecnica/eletrodomesticos/consul/fora-da-garantia,Assistências Técnicas para Eletrodomésticos Consul,false
+1253,2016-05-11 16:49:53.000000,assistencia-tecnica/eletrodomesticos/ge/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos GE,false
+1257,2016-05-11 16:54:18.000000,assistencia-tecnica/eletrodomesticos/lg,Assistências Técnicas para Eletrodomésticos LG,false
+1261,2016-05-11 16:57:40.000000,assistencia-tecnica/eletrodomesticos/continental,Assistências Técnicas para Eletrodomésticos Continental,false
+1265,2016-05-11 17:23:15.000000,assistencia-tecnica/eletrodomesticos/mondial/dentro-da-garantia,Assistências Técnicas para Eletrodomésticos Mondial,false
+1269,2016-06-07 18:36:23.000000,assistencia-tecnica/impressora/brother/fora-da-garantia,Assistências Técnicas para Impressora Brother,false
+1273,2016-06-08 14:43:20.000000,assistencia-tecnica/tablet/motorola,Assistências Técnicas para Tablet Motorola,false
+1277,2016-06-16 14:49:12.000000,assistencia-tecnica/fogao-e-cooktop/dako/dentro-da-garantia,Assistências Técnicas para Fogão E Cooktop Dako,false
+1281,2016-06-17 19:41:46.000000,assistencia-tecnica/camera/gopro/fora-da-garantia,Assistências Técnicas para Câmera GoPro,false
+1286,2016-06-28 19:40:56.000000,assistencia-tecnica/micro-ondas/sharp,Assistências Técnicas para Microondas Sharp,false
+1290,2016-07-08 18:01:46.000000,assistencia-tecnica/lava-louca/consul/dentro-da-garantia,Assistências Técnicas para Lava Louça Consul,false
+1294,2016-08-29 17:50:38.000000,consultoria/contador/contabil,Contador,true
+1298,2016-08-29 18:46:56.000000,consultoria/contador/outro,Contadores,true
+1302,2016-08-30 18:50:14.000000,reformas-e-reparos/chaveiro/outro,Chaveiros,false
+1306,2016-09-05 13:54:41.000000,aulas/musica/violao/remoto,Aulas à distância,true
+1310,2016-09-20 17:32:22.000000,reformas-e-reparos/eletricista/instalacao,Eletricistas,false
+1315,2016-10-17 13:47:27.000000,consultoria/economia-e-financas/coaching,Consultores Financeiros,true
+1319,2016-11-03 13:59:10.000000,aulas/idiomas/polones,Professores de Polonês,false
+1323,2016-11-03 15:59:26.000000,aulas/idiomas/coreano/presencial,Professores de Coreano,false
+1327,2016-11-03 16:10:56.000000,aulas/idiomas/russo/remoto,Professores de Russo,true
+1331,2016-11-03 16:31:32.000000,aulas/idiomas/noruegues,Professores de Norueguês,false
+1335,2016-11-03 16:41:12.000000,aulas/idiomas/sueco/presencial,Professores de Sueco,false
+1339,2016-11-03 17:14:49.000000,aulas/idiomas/holandes/remoto,Professores de Holandês,true
+1343,2016-11-03 17:51:18.000000,aulas/idiomas/latim,Professores de Latim,false
+1347,2016-11-03 18:08:52.000000,aulas/idiomas/dinamarques/presencial,Professores de Dinamarquês,false
+1352,2016-11-17 18:16:25.000000,assistencia-tecnica/ar-condicionado/brastemp,Assistências Técnicas para Ar Condicionado Brastemp,false
+1356,2016-11-17 18:27:15.000000,assistencia-tecnica/ar-condicionado/consul/dentro-da-garantia,Assistências Técnicas para Ar Condicionado Consul,false
+1360,2016-11-29 19:37:17.000000,aulas/esportes/handebol,Professores para Handebol,false
+1364,2016-11-29 19:58:10.000000,aulas/bem-estar,Professores para Bem-estar,false
+1368,2016-11-29 20:47:00.000000,aulas/bem-estar/condicionamento-fisico,Professores para Condicionamento físico,false
+1381,2016-12-02 20:09:01.000000,aulas/luta/karate,Professores para Karatê,false
+1385,2016-12-02 20:14:03.000000,aulas/luta/muay-thai,Professores para Muay-thai,false
+1389,2017-01-06 19:50:25.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/piso-laminado,Pedreiro para pisos laminados,false
+1393,2017-01-06 20:02:48.000000,reformas-e-reparos/pedreiro/pisos-e-revestimentos/piso-de-madeira,Pedreiro para pisos de madeira,false
+1397,2017-02-23 17:43:14.000000,aulas/danca/ballet-classico,Aulas de Dança - Ballet Clássico,false
+1402,2017-02-23 17:54:46.000000,aulas/danca/salsa,Aulas de Dança - Salsa,false
+1407,2017-02-23 18:12:33.000000,aulas/danca/vanera,Aulas de Dança - Vanera,false
+1411,2017-02-23 18:23:18.000000,aulas/danca/sapateado,Aulas de Dança - Sapateado,false
+1415,2017-02-23 18:43:42.000000,aulas/informatica/after-effects,Professores de After Effects,true
+1419,2017-02-23 19:34:38.000000,aulas/idiomas/japones/remoto,Professores de Japonês,true
+1438,2017-08-29 14:48:12.000000,assistencia-tecnica/lava-roupa/samsung/fora-da-garantia,Assistências Técnicas para Lava Roupa Samsung,false
+1442,2017-08-29 14:58:31.000000,assistencia-tecnica/lava-roupa/bosch/dentro-da-garantia,Assistências Técnicas para Lava Roupa Bosch,false
+1446,2017-10-10 18:46:17.000000,automoveis/vidracaria-automotiva,especialistas em vidraçaria automotiva,false
+1450,2017-11-14 16:07:52.000000,reformas-e-reparos/instalacao-de-eletronicos,Instalação de eletrônicos,false
+1470,2018-01-15 18:12:44.000000,reformas-e-reparos/redes-de-protecao,Especialistas em Instalação e Manutenção de Redes de Proteção,false
+1474,2018-02-07 20:35:19.000000,reformas-e-reparos/coifas-e-exaustores,Profissionais especializados em Coifas e Exaustores,false
+1478,2018-02-28 21:49:35.000000,consultoria/traducao-juramentada/frances,Tradutores Juramentados da língua francesa,false
+1426,2017-04-04 17:26:21.000000,aulas/artes-e-artesanatos/croche/remoto,Aulas à distância,true
+1430,2017-04-04 17:47:08.000000,aulas/artes-e-artesanatos/bordado,Aulas de Bordado,false
+1434,2017-04-04 18:26:33.000000,aulas/artes-e-artesanatos/outros/presencial,Aulas de Outros,false
+488,2013-07-11 03:00:35.000000,assistencia-tecnica/micro-ondas/panasonic/fora-da-garantia,Assistências Técnicas para Micro Ondas Panasonic,false
